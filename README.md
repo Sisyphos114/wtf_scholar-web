@@ -8,19 +8,21 @@ dockerfile
 
 构建 Docker 镜像：
 backend
-
+```sh
 docker build -t wtf-api-backend -f Backend/Dockerfile .
-
+```
+```sh
 docker run -d -p 5001:5001 flask-api-app
-
+```
 ————————————————————
 
 frontend
-
+```sh
 docker build -t wtf-frontend-dev -f frontend/Dockerfile .
-
+```
+```sh
 docker run -d -p 5173:5173 vue-frontend-dev
-
+```
 
 
 
