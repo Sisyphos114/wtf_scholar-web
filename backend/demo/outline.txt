@@ -1,0 +1,25 @@
+mRNA Vaccines: A New Hope for Preventing and Controlling African Swine Fever 
+
+- The progress and limitations of the current ASFV vaccines
+  -- Live-attenuated ASFV vaccines
+  -- Inactivated and protein ASFV vaccine
+  -- DNA and virus-vectored ASFV vaccines
+  -- RNA ASFV vaccines
+  -- The challenges of developing ASFV vaccines 
+  
+- The principal pharmacology of mRNA vaccine
+  -- The principal pharmacology of mRNA vaccine
+  
+- Key advantages of ASFV mRNA vaccines
+  -- mRNA vaccine can induce powerful Thl -bias immune response and memory
+  -- mRNA vaccine enables the development of multivalent ASFV vaccines
+  -- Flexible utility and alternation of ASFV antigens
+  -- Short development cycle and Fast manufacture and reducing cost
+  
+- A How to design effective ASFV mRNA vaccines
+  -- Antigen selection and design: determining the specificity of ASFV mRNA vaccines 
+  -- RNA sequence design: increasing the expression of antigen
+  -- Delivery systems and adjuvants: strengthening the immune response and memory
+
+- Future Prospects and Conclusions
+  -- Future Prospects and Conclusions
