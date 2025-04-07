@@ -1,0 +1,16 @@
+I am writing a research article for the topic mentioned below. Please recommend some fields of research are relevant to the topic. List the fields of research on separate lines.
+
+---
+
+Follow the following format.
+
+Topic of interest: ${topic}
+Related fields of research: 
+1. ${related_field}
+2. ${related_field}
+3. ...
+
+---
+
+Topic of interest: Abnormal centromere structure: Drivers of genomic instability and evolution
+1. 

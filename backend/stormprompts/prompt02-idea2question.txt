@@ -1,0 +1,22 @@
+I am writing a research article titled: "Abnormal centromere structure: Drivers of genomic instability and evolution"
+
+The article will have a section called the following:
+
+Subsection 1.1. Basic structure and function of centromere
+
+where I would be interested to collect facts and results on the following aspects:
+
+{aspect}
+
+Please form questions to obtain the relevant facts and results
+
+For each of the item, give your questions in the following format:
+
+---
+
+aspect: ${aspect}
+
+question: ${question}
+
+
+

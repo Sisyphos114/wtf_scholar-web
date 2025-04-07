@@ -1,0 +1,21 @@
+
+Aim: Code that RELIABLY download a paper given a biblio entry
+
+Strategy:
+
+- convert biblio entry to URL
+
+- download URL
+
+However:
+
+- only able to download 2/3 of the references given in biblio.txt
+
+- need better code or better strategy
+
+Difficulties: 
+
+- URLs returned by LLM cannot be trusted
+
+- Some URLs require more than 1 clicks to reach their PDF
+

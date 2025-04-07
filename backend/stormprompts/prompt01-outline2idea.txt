@@ -1,0 +1,47 @@
+I am writing a research article titled: "Abnormal centromere structure: Drivers of genomic instability and evolution"
+
+The article is to have the following outline:
+
+---
+
+Section 1. Introduction
+Subsection 1.1. Basic structure and function of centromere
+Subsection 1.2. Current status of genomic instability caused by abnormal centromere structure
+Subsection 1.3. Research status of centromere structure abnormality and evolution
+
+Section 2. The type of abnormal centromere structure
+Subsection 2.1. Abnormal types
+
+Section 3. Molecular mechanism of genomic instability and the influence of abnormal centromere structure on it 
+Subsection 3.1. Chromosomal aberrations
+Subsection 3.2. Aneuploidy
+Subsection 3.3. Gene expression dysregulation
+Subsection 3.4. Cell cycle disruption
+
+Section 4. Centromere abnormalities drive genome variation and evolution
+Subsection 4.1. Variation generation
+Subsection 4.2. Species adaptation
+Subsection 4.3. Development of new functions
+
+Section 5. Conclusion
+Subsection 5.1. Role summary
+Subsection 5.2. Implications for future research
+Subsection 5.3. Research challenges
+
+---
+
+For each subsection, suggest a few key ideas to explore in the section.
+Answer in the following format.
+
+Subsection title: ${subsection_number} ${subsection_name}
+Suggested ideas: 
+1. ${first_idea}
+2. ${second_idea}
+3. ...
+
+---
+
+Subsection title: Subcection 1.1. Introduction
+Suggested ideas:
+1.
+

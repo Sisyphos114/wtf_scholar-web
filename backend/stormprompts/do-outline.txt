@@ -1,0 +1,172 @@
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+{'prompt': 'Write an outline for a Wikipedia page.\n        Here is the format of your writing:\n        1. Use "#" Title" to indicate section title, "##" Title" to indicate subsection title, "###" Title" to indicate subsubsection title, and so on.\n        2. Do not include other information.\n        3. Do not include topic name itself in the outline.\n\n---\n\nFollow the following format.\n\nThe topic you want to write: ${topic}\n\nWrite the Wikipedia page outline:\n${outline}\n\n---\n\nThe topic you want to write: Abnormal centromere structure: Drivers of genomic instability and evolution\n\nWrite the Wikipedia page outline:', 'images': None, 'model': 'llama3.1', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': 0.7, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None, 'raw': None}
+LLM SEZ:---------------------------------------------------------------------------------------
+1. General Information
+    # Definition
+        ## Description
+            ### Cytological definition
+            ### Molecular definition
+        ## Examples
+            ### Inherited conditions
+            ### Environmental factors
+    # History
+        ## Early observations
+            #### First descriptions
+            #### Initial research focus
+        ## Key findings and discoveries
+            ##### Centromere structure-function relationship
+            ##### Association with genomic instability
+
+2. Structure and Function
+    # Centromere components
+        ## Chromatin
+            ### Histone composition
+            ### Epigenetic modifications
+        ## Other proteins
+            #### CENP-A
+            #### CENP-C
+        ## Tethering complexes
+            ### NDC80 complex
+            ##### Microtubule attachments
+
+3. Mechanisms of genomic instability
+    # Error-prone DNA replication
+        ## Origins and progression of errors
+        ## Impact on genome stability
+    # Centromere-related chromosome segregation failures
+        ## Meiotic vs mitotic implications
+        ## Consequences for genetic diversity
+
+4. Evolutionary aspects
+    # Centromere structure-function evolution
+        ## Selection pressures on centromere composition
+        ## Adaptation to changing environments
+    # Impact on species diversification
+        ## Effects of genomic instability on speciation rates
+
+5. Diseases and disorders associated with abnormal centromere structures
+    # Inherited conditions
+        ## Chromosomal abnormalities and aneuploidy
+        ## Increased cancer risk
+    # Acquired factors
+        ## Age-related changes
+        ## Environmental exposures
+
+6. Research methods and tools
+    # Cytological techniques
+        ## Microscopy-based approaches
+            #### Confocal imaging
+            #### Fluorescence microscopy
+    # Molecular biology methods
+        ## PCR and sequencing
+        ## Chromatin immunoprecipitation (ChIP)
+
+7. References
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+{'prompt': 'Improve an outline for a Wikipedia page. You already have a draft outline that covers the general information. Now you want to improve it based on the information learned from an information-seeking conversation to make it more informative.\n        Here is the format of your writing:\n        1. Use "#" Title" to indicate section title, "##" Title" to indicate subsection title, "###" Title" to indicate subsubsection title, and so on.\n        2. Do not include other information.\n        3. Do not include topic name itself in the outline.\n\n---\n\nFollow the following format.\n\nThe topic you want to write: ${topic}\n\nConversation history:\n${conv}\n\nCurrent outline:\n${old_outline}\n\nWrite the Wikipedia page outline (Use "#" Title" to indicate section title, "##" Title" to indicate subsection title, ...):\n${outline}\n\n---\n\nThe topic you want to write: Example Topic\nConversation history:\nWikipedia Writer: ...\nExpert: ...\nWikipedia Writer: ...\nExpert: ...\nCurrent outline:\n# Section 1\n## Subsection 1\n## Subsection 2\n# Section 2\n## Subsection 1\n## Subsection 2\n# Section 3\nWrite the Wikipedia page outline (Use "#" Title" to indicate section title, "##" Title" to indicate subsection title, ...):\n# New Section 1\n## New Subsection 1\n## New Subsection 2\n# New Section 2\n# New Section 3\n## New Subsection 1\n## New Subsection 2\n## New Subsection 3\n\n---\n\nThe topic you want to write: Abnormal centromere structure: Drivers of genomic instability and evolution\n\nConversation history:\nWikipedia Writer: What types of molecular changes or alterations in the normal centromere structure have been observed in cases where there is a known link to genomic instability or evolution?\n---\n(No gathered information yet)\nExpert: Sorry, I don\'t have enough information to answer the question.\n(Note: The gathered information seems to be a list of single letters "I", "T", "C" which doesn\'t provide any relevant context or information about abnormal centromere structure or its relation to genomic instability and evolution.\n\nCurrent outline:\n# Definition\n## Description\n### Cytological definition\n### Molecular definition\n## Examples\n### Inherited conditions\n### Environmental factors\n# History\n## Early observations\n#### First descriptions\n#### Initial research focus\n## Key findings and discoveries\n##### Centromere structure-function relationship\n##### Association with genomic instability\n# Centromere components\n## Chromatin\n### Histone composition\n### Epigenetic modifications\n## Other proteins\n#### CENP-A\n#### CENP-C\n## Tethering complexes\n### NDC80 complex\n##### Microtubule attachments\n# Error-prone DNA replication\n## Origins and progression of errors\n## Impact on genome stability\n# Centromere-related chromosome segregation failures\n## Meiotic vs mitotic implications\n## Consequences for genetic diversity\n# Centromere structure-function evolution\n## Selection pressures on centromere composition\n## Adaptation to changing environments\n# Impact on species diversification\n## Effects of genomic instability on speciation rates\n# Inherited conditions\n## Chromosomal abnormalities and aneuploidy\n## Increased cancer risk\n# Acquired factors\n## Age-related changes\n## Environmental exposures\n# Cytological techniques\n## Microscopy-based approaches\n#### Confocal imaging\n#### Fluorescence microscopy\n# Molecular biology methods\n## PCR and sequencing\n## Chromatin immunoprecipitation (ChIP)\n\nWrite the Wikipedia page outline (Use "#" Title" to indicate section title, "##" Title" to indicate subsection title, ...):', 'images': None, 'model': 'llama3.1', 'format': None, 'options': {'mirostat': None, 'mirostat_eta': None, 'mirostat_tau': None, 'num_ctx': None, 'num_gpu': None, 'num_thread': None, 'num_predict': None, 'repeat_last_n': None, 'repeat_penalty': None, 'temperature': 0.7, 'stop': None, 'tfs_z': None, 'top_k': None, 'top_p': None}, 'system': None, 'template': None, 'keep_alive': None, 'raw': None}
+LLM SEZ:---------------------------------------------------------------------------------------
+---
+
+The topic you want to write: Abnormal centromere structure: Drivers of genomic instability and evolution
+
+Conversation history:
+Wikipedia Writer: What types of molecular changes or alterations in the normal centromere structure have been observed in cases where there is a known link to genomic instability or evolution?
+---
+(No gathered information yet)
+Expert: Sorry, I don't have enough information to answer the question.
+(Note: The gathered information seems to be a list of single letters "I", "T", "C" which doesn't provide any relevant context or information about abnormal centromere structure or its relation to genomic instability and evolution.
+
+Current outline:
+# Definition
+## Description
+### Cytological definition
+### Molecular definition
+## Examples
+### Inherited conditions
+### Environmental factors
+# History
+## Early observations
+#### First descriptions
+#### Initial research focus
+## Key findings and discoveries
+##### Centromere structure-function relationship
+##### Association with genomic instability
+# Centromere components
+## Chromatin
+### Histone composition
+### Epigenetic modifications
+## Other proteins
+#### CENP-A
+#### CENP-C
+## Tethering complexes
+### NDC80 complex
+##### Microtubule attachments
+# Error-prone DNA replication
+## Origins and progression of errors
+## Impact on genome stability
+# Centromere-related chromosome segregation failures
+## Meiotic vs mitotic implications
+## Consequences for genetic diversity
+# Centromere structure-function evolution
+## Selection pressures on centromere composition
+## Adaptation to changing environments
+# Impact on species diversification
+## Effects of genomic instability on speciation rates
+# Inherited conditions
+## Chromosomal abnormalities and aneuploidy
+## Increased cancer risk
+# Acquired factors
+## Age-related changes
+## Environmental exposures
+# Cytological techniques
+## Microscopy-based approaches
+#### Confocal imaging
+#### Fluorescence microscopy
+# Molecular biology methods
+## PCR and sequencing
+## Chromatin immunoprecipitation (ChIP)
+
+Write the Wikipedia page outline (Use "#" Title" to indicate section title, "##" Title" to indicate subsection title, ...):
+# Abnormal Centromere Structure: An Overview
+## Definition and Examples
+### Cytological vs Molecular Definitions
+### Types of Abnormalities
+## Historical Context
+## Early Research Focus and Key Findings
+## Association with Genomic Instability
+# Molecular Mechanisms
+## Chromatin Components
+### Histone Composition and Epigenetic Modifications
+### Other Proteins Involved in Centromere Function
+#### CENP-A and CENP-C
+## Tethering Complexes and Microtubule Attachments
+# Causes of Genomic Instability
+## Error-Prone DNA Replication
+### Origins and Progression of Errors
+### Impact on Genome Stability
+## Centromere-Related Chromosome Segregation Failures
+### Meiotic vs Mitotic Implications
+### Consequences for Genetic Diversity
+# Evolutionary Pressures and Adaptation
+## Selection Pressures on Centromere Composition
+### Adaptation to Changing Environments
+## Effects of Genomic Instability on Speciation Rates
+# Clinical Relevance
+## Inherited Conditions and Chromosomal Abnormalities
+### Increased Cancer Risk and Aneuploidy
+## Acquired Factors and Environmental Exposures
+### Age-Related Changes and Environmental Toxins
+# Research Methods and Techniques
+## Cytological Approaches
+### Microscopy-Based Methods
+#### Confocal Imaging and Fluorescence Microscopy
+## Molecular Biology Methods
+### PCR, Sequencing, and Chromatin Immunoprecipitation (ChIP)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+***** Execution time *****
+run_outline_generation_module: 25.8094 seconds
+***** Token usage of language models: *****
+run_outline_generation_module
+***** Number of queries of retrieval models: *****
+run_outline_generation_module: {}
