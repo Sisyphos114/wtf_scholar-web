@@ -1,6 +1,28 @@
 # wtf_scholar-web
 Web application for Manuscript GEN
 
+docker 部署
+下载release中的镜像zip,
+解压为前后端的tar
+dockerfile
+
+构建 Docker 镜像：
+backend
+
+docker build -t wtf-api-backend -f Backend/Dockerfile .
+
+docker run -d -p 5001:5001 flask-api-app
+
+————————————————————
+
+frontend
+
+docker build -t wtf-frontend-dev -f frontend/Dockerfile .
+
+docker run -d -p 5173:5173 vue-frontend-dev
+
+
+
 
 # frontend
 # academic-writing-assistant
