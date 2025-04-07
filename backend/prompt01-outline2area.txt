@@ -1,0 +1,25 @@
+I am writing a research article titled: "{article_title}".
+
+The article is to have the following outline:
+
+---
+
+{outline}
+
+---
+
+For each subsection, suggest a few key ideas to explore in the section.
+Answer in the following format.
+
+Subsection title: [subsection_number] [subsection_name]
+Suggested ideas: 
+1. [first_idea]
+2. [second_idea]
+3. ...
+
+---
+
+Subsection title: Subsection 1.1. Introduction
+Suggested ideas:
+1.
+

@@ -1,0 +1,23 @@
+Write a paragraph for a section in a research article. The title of the section is:
+
+{section_title}
+
+The paragraph you are writing is concerned with the following topic:
+
+{topic}
+
+You have collected the following facts for writing the paragraph:
+
+{facts}
+
+If the fact uses a citation (for example, [1], [2], [3][4]), keep that citation with the same index within the sentence which you wrote based on the fact.
+
+Do not change the citation indices.
+
+Begin your paragraph with the tag BEGIN and end with the tag END as follows:
+
+BEGIN
+
+paragraph text
+
+END

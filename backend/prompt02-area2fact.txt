@@ -1,0 +1,33 @@
+I am writing a research article titled: {article_title}
+
+The article will have a section called the following:
+
+{section_title}
+
+where I would be interested to collect facts on the following area, together with the sources of these facts:
+
+{area}
+
+Suggest a few facts in the area, and state their sources. Give the facts in the following format, where the sources of each fact is state at the end:
+---
+FACT: first face [1]
+
+FACT: second_fact [2]
+
+FACT: ...
+---
+
+Below is a sample of your output:
+---
+FACT: The capital of the United States is Washington, D.C. [1].
+---
+
+Use a References section to list the sources of the facts at the end of your output as follows:
+---
+References:
+
+1. source for [1]
+
+2. source for [2]
+
+3. ...

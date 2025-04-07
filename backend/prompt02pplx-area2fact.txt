@@ -1,0 +1,25 @@
+I am writing a research article titled: {article_title}
+
+The article will have a section called the following:
+
+{section_title}
+
+where I would be interested to collect facts on the following area, together with the sources of these facts:
+
+{area}
+
+Suggest a few facts in the area, and give the source for each fact. When giving the source for a fact, provide its title, its url, and the segment of text in it that supports the fact -- give these in a single line in the following format, where ::: is used as separator.
+---
+FACT: [fact]
+SUPPORT: [source for fact] ::: url ::: segment of text in source that supports fact
+
+FACT: [fact]
+SUPPORT: [source for fact] ::: url ::: segment of text in source that supports fact
+
+FACT: ...
+---
+
+Below is a sample of a fact in your output:
+---
+FACT: The capital of the United States is Washington, D.C.
+SUPPORT: The Capitol ::: https://www.visitthecapitol.gov/explore/the-capitol ::: The capital of the United States is located at Washington, D.C.

@@ -1,0 +1,11 @@
+flask 
+python-dotenv
+langchain_community
+chardet
+openai
+editdistance
+flask_cors
+python-docx
+markdown
+bs4
+langchain_openai

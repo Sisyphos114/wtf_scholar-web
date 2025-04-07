@@ -1,0 +1,918 @@
+
+### Subsection 1.1. Live-attenuated ASFV vaccines
+
+1. **Efficacy and Protection**: Discuss the efficacy of live-attenuated ASFV vaccines in inducing protection against parental virulent ASFV strains. Highlight any successful trials or studies demonstrating their protective capabilities.
+1. **Efficacy and Protection**: Discuss the efficacy of live-attenuated ASFV vaccines in inducing protection against parental virulent ASFV strains. Highlight any successful trials or studies demonstrating their protective capabilities.
+FACT: The USDA's Agricultural Research Service (ARS) has developed a live-attenuated ASFV vaccine candidate that has been shown to prevent and effectively protect both European and Asian bred swine against the current circulating Asian strain of the virus. [1]
+SOURCE: "The U.S. Department of Agriculture's (USDA) Agricultural Research Service (ARS) today announced that one of its African Swine Fever Virus (ASFV) vaccine candidates has been shown to prevent and effectively protect both European and Asian bred swine against the current circulating Asian strain of the virus."
+URL: https://www.ars.usda.gov/news-events/news/research-news/2021/usdas-vaccine-candidate-successful-in-blocking-spread-of-african-swine-fever-virus/
+FACT: The onset of immunity from the USDA's live-attenuated ASFV vaccine candidate was observed in approximately one-third of the swine by the second week post-vaccination, with full protection in all swine achieved by the fourth week. [1]
+SOURCE: "The onset of immunity was revealed in approximately one-third of the swine by second week post-vaccination, with full protection in all swine achieved by the fourth week."
+URL: https://www.ars.usda.gov/news-events/news/research-news/2021/usdas-vaccine-candidate-successful-in-blocking-spread-of-african-swine-fever-virus/
+FACT: The live-attenuated vaccine candidate developed by ARS can be commercially produced while maintaining its vaccine efficacy against Asian ASFV strains when tested in different pig breeds. [1]
+SOURCE: "Newly published USDA research... shows that ARS scientists have developed a vaccine candidate with the ability to be commercially produced while still maintaining its vaccine efficacy against Asian ASFV strains when tested in both European and Asian breeds of swine."
+URL: https://www.ars.usda.gov/news-events/news/research-news/2021/usdas-vaccine-candidate-successful-in-blocking-spread-of-african-swine-fever-virus/
+FACT: Despite promising results, some live-attenuated and gene-deficient ASFV vaccines have been hindered by violent side effects and the possibility of virulence recovery. [2]
+SOURCE: "Although natural attenuated live vaccines and gene-deficient vaccines provided efficient immune protection against homologous strains, the progress of its development has been impeded due to the violent side effects of vaccination and the possibility of virulence recovery (King et al., 2011; Abrams et al., 2013; Mulumba-Mfumu et al., 2016)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1310333/full
+FACT: Live-attenuated vaccines may not provide full cross-protection against virulent strains from different genotypes or clades, as evidenced by reduced protection when challenged with a more phylogeographically distant virus. [3]
+SOURCE: "Despite the full protection observed against Arm07 infection, only three of the eight vaccinated animals survived until the end of the experiment (38%) having two of them clinical signs compatible with ASFV infection that were milder than the rest (25%). Moreover, these three animals had lower macroscopic findings and a lower viral DNA load in their tissues than the other vaccinated, control, and IM-challenged animals."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+
+
+2. **Risks and Concerns**: Address the significant concerns associated with live-attenuated vaccines, such as the risk of reversion to virulence, which could lead to the spread of the disease rather than its control[1][4][5].
+FACT: Live attenuated ASFV vaccines, such as those developed from the OURT88/3 strain, have shown protective capabilities against homologous strains in pigs, although the protective rate was not satisfactory due to individual differences in swine, vaccination doses, and attacking strains. [4]
+SOURCE: "Live attenuated vaccines prepared from OURT88/3 were protective against homologous strains against pigs, but the protective rate was not satisfactory due to individual differences of swine, vaccination doses, and attacking strains (Chen et al., 2020)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: An attenuated vaccine against ASFV serotypes I-V developed by the Federal Center for Virology and Microbiology Research protected against strains of homologous serotypes for at least 4 months after vaccination. [4]
+SOURCE: "In the mid-20th century, an attenuated vaccine against ASFV serotypes I-V developed by the Federal Center for Virology and Microbiology Research protected against strains of homologous serotypes for at least 4 months on day 14 after vaccination (Sereda et al., 2020)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: The ASFV-G-∆I177L vaccine candidate showed promising results, with vaccinated pigs not exhibiting general ASF symptoms and only mild, transient clinical signs, and demonstrating stability in virulence reduction tests. [4]
+SOURCE: "Tran et al. evaluated the safety of ASFV-G-∆I177L in vaccinated 6 to 8-week-old pigs, which did not cause general ASF symptoms and showed only sporadic, transient clinical signs such as mild cough and soft stools (Tran et al., 2022b). Most importantly, the virulence reduction test demonstrated the stability of the attenuated vaccine by returning five consecutive groups of pigs."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: The ASFV-G-∆9GL vaccine candidate protected all infected animals against a challenge with the parental virulent strain when administered at low doses. [4]
+SOURCE: "Vaccinated pigs were able to resist challenges with the virulent strain after intramuscular injection of low doses of 10^2 to 10^3 HAD 50 of ASFV-G-∆9GL or ASFV-G in commercial pigs (O’Donnell et al., 2015b)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Live attenuated ASFV vaccines can revert to virulence, posing a risk of spreading the disease rather than controlling it. [4]
+SOURCE: "The fact that animals immunized with naturally attenuated strains exhibit significant side effects such as fever, skin damage, and joint swelling, which hinder the development of naturally attenuated strains of the ASFV vaccine (Leitão et al., 2001; Mulumba-Mfumu et al., 2016)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Swine vaccinated with naturally attenuated ASFV vaccines can manifest severe toxic side effects, including fever, abortion, and chronic or persistent infection. [4]
+SOURCE: "Swine vaccinated with naturally attenuated vaccines manifest severe toxic side effects, such as fever, abortion, and chronic or persistent infection (Netherton et al., 2019)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Forced animal passaging of live attenuated vaccines can lead to the emergence of virus variants associated with transient fever and increased replication and shedding, although significant virulence reversion may not be observed. [5]
+SOURCE: "Upon forced animal passaging, a virus variant emerged that was associated with transient fever and an increased replication and shedding. However, all animals were healthy upon completion of the study and reversion to significant virulence was not observed."
+URL: https://pubmed.ncbi.nlm.nih.gov/37248243/
+FACT: Reversion to virulence studies are crucial for ensuring the safety of live attenuated ASFV vaccines, as genomic changes can occur during passaging. [6]
+SOURCE: "Recently draft guidelines have been established for reversion to virulence studies, a safety study for any live attenuated vaccine."
+URL: https://portal.nifa.usda.gov/web/crisprojectpages/0446496-reversion-to-virulene-studies-for-african-swine-fever-vaccines.html
+
+
+3. **Current Status and Use**: Describe the current status of live-attenuated ASFV vaccines, including any that have been approved or are in use, such as the NAVET-ASFVAC and AVAC ASF LIVE vaccines approved in Vietnam[5].
+FACT: The Ministry of Agriculture and Rural Development in Vietnam has officially approved the domestic commercial use of two locally manufactured vaccines against African Swine Fever, namely NAVET-ASFVAC and AVAC ASF LIVE. [7]
+SOURCE: "The Ministry of Agriculture and Rural Development in Vietnam has officially approved the domestic commercial use of two locally manufactured vaccines against African swine fever."
+URL: https://www.swinehealth.org/shic-reports-on-african-swine-fever/
+FACT: The NAVET-ASFVAC and AVAC ASF LIVE vaccines are based on the live attenuated strain of the ASF virus originally developed at the Plum Island Animal Disease Center (PIADC) by the USDA Agricultural Research Service (ARS) in 2015. [8]
+SOURCE: "The vaccines, NAVET-ASFVAC and AVAC ASF LIVE, are based on the live attenuated strain of the ASF virus that was originally developed at PIADC by USDA ARS in 2015."
+URL: https://www.dhs.gov/sites/default/files/2024-01/23_1116_st_vaccine_development_factsheet.pdf
+FACT: These vaccines have undergone rigorous safety and potency trials at the National Center for Veterinary Drugs and Vaccines Control I in Vietnam, ensuring they meet high quality standards. [7]
+SOURCE: "In these trials, the efficacy of the vaccines was defined as the percentage of animals presenting antibodies against ASF measured by ELISA at day 21."
+URL: https://www.swinehealth.org/shic-reports-on-african-swine-fever/
+FACT: Over 650,000 doses of these vaccines were tested on hog herds in 40 provinces in Vietnam, with an efficacy rate of 95%. [9]
+SOURCE: "More than 650,000 doses of the vaccines were recently tested on hog herds in 40 provinces in Vietnam, with an efficacy rate of 95%."
+URL: https://www.pigprogress.net/health-nutrition/health/asf-vietnam-approval-of-commercial-use-of-1st-vaccines/
+FACT: The Vietnamese ministry of agriculture has requested the vaccine-producing companies to devise production plans for both domestic sales and export. [7]
+SOURCE: "Considering the existing regional and international markets, the scope for these vaccines may extend far beyond Vietnam. According to a government statement, Vietnam’s agriculture ministry has requested the two vaccine-producing companies to devise production plans for both domestic sales and export."
+URL: https://www.swinehealth.org/shic-reports-on-african-swine-fever/
+FACT: The estimated price for these vaccines is approximately $1.50 per dose. [7]
+SOURCE: "The estimated price for these vaccines is approximately $1.50 per dose."
+URL: https://www.swinehealth.org/shic-reports-on-african-swine-fever/
+
+
+
+### Subsection 1.2. Inactivated and protein ASFV vaccines
+1. **Development Challenges**: Discuss the challenges faced in developing inactivated and protein-based ASFV vaccines, including the difficulty in identifying and isolating effective immunogenic proteins.
+FACT: The development of inactivated and protein-based ASFV vaccines has been hindered by the complexity of the ASFV, which is a giant DNA virus containing more than 150 open-reading frames. [3]
+SOURCE: "The main constraint is the great complexity of the ASFV, which is the only member of its family, *Asfarviridae*, and is considered to be a giant DNA virus that contains more than 150 open-reading frames."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: Current techniques are insufficient to fully understand the structural and functional features of ASFV, making it difficult to identify specific antigens that induce a protective immune response. [3]
+SOURCE: "Its complexity means that current techniques do not go sufficiently far to attain a full understanding of its structural and functional features (18). The specific antigens that induce a protective immune response are, therefore, unknown."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: Inactivated vaccines and those based on subunits or recombinants have failed to develop an effective immune response against ASFV, regardless of the adjuvant used. [3]
+SOURCE: "Both inactivated vaccines and those based on subunits or recombinants have failed to develop an effective immune response, independently of the adjuvant tested (22–24)."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: The protective immune response against ASFV is not related to fully neutralizing antibodies, and the cellular immune response plays a crucial role, complicating the assessment of vaccine-induced immunity. [3]
+SOURCE: "The protective immune response against ASFV is not related to fully neutralizing antibodies and there is evidence that the cellular immune response plays a crucial role (19–21)."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: Traditional *in vitro* assays, such as neutralizing antibody analyses, are ineffective for assessing cross-protection in ASFV due to its unique immunological profile. [3]
+SOURCE: "Traditionally, cross-protection among different viral strains is assessed through *in vitro* neutralizing antibody analyses. However, this conventional approach is rendered ineffective in the context of ASFV, given its unique immunological profile."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+
+
+
+2. **Limited Efficacy**: Explain why inactivated and protein-based vaccines have shown limited efficacy in providing robust protection against ASFV.
+2. **Limited Efficacy**: Explain why inactivated and protein-based vaccines have shown limited efficacy in providing robust protection against ASFV.
+FACT: Inactivated vaccines against ASFV cannot elicit a complete cellular immune response, resulting in incomplete protection. [4]
+SOURCE: "Although inactivated vaccines are antigenic, they cannot elicit a complete cellular immune response, resulting in incomplete protection (Tlaxca et al., 2015)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Inactivated ASFV vaccines, even when adjuvanted, have been shown to be ineffective in providing protection against highly virulent strains. [4]
+SOURCE: "The gamma-irradiated ASFV “Estonia 2014” has been shown to be ineffective when adjuvanted with Polygen™ or Montanide™ ISA 201 VG, respectively. Pikalo et al. demonstrated that the highly virulent “Armenia 2008” ASFV strain was not protective by inoculating weaned piglets separately with the inoculated vaccine and subjecting them to the highly virulent “Armenia 2008” strain after 42 days, showing that vaccinated animals contained specific IgG but no protection (Pikalo et al., 2022)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Protein-based vaccines, such as those using recombinant proteins p30 and p54, have elicited neutralizing antibodies but failed to provide robust protection against acute ASFV infection. [10]
+SOURCE: "Nevertheless, pigs immunized with either p30 or p54 were not protected against acute ASF despite the production of neutralizing antibodies (Gomez-Puertas et al., 1998). In this regard, the combination of p30 and p54 (or a chimeric construct) elicited partial protection (Barderas et al., 2001; Gomez-Puertas et al., 1998), though no protection was found when animals were immunized with baculovirus-expressed p30,"
+URL: https://asf-referencelab.info/wp-content/uploads/pdf/PDF_References/2019-Virus_Res._2019_265_150-5_ppa.pdf
+FACT: Live attenuated vaccines, while showing some promise, are characterized by high costs, long development cycles, and instability, which limit their rapid development and effectiveness. [4]
+SOURCE: "However, live attenuated vaccine development is characterized by high costs, long cycles, and instability, which limit their rapid development."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Even when protein-based vaccines induce specific antibodies, they often lack the necessary cellular immune response to provide effective protection against ASFV. [2]
+SOURCE: "Previous studies have demonstrated that vaccination with recombinant p30 and p54 or a fusion protein p54/30 produced neutralizing antibodies in pigs, but the cellular immune response was suboptimal, resulting in an unsatisfactory protective effect (Lacasta et al., 2014)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1310333/full
+
+
+3. **Research Status**: Update on the current research status and any ongoing efforts to improve the efficacy of these vaccine types.
+FACT: Inactivated ASFV vaccines have poor immune protection. [4]
+SOURCE: "Vaccination is the optimal strategy to prevent and control the ASF epidemic, but since inactivated ASFV vaccines have poor immune protection and there aren't..."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Protein-based vaccines, such as those using baculovirus-expressed proteins, have shown limited protection in some studies. [4]
+SOURCE: "For example, a study of immunized pigs with a fusion of genes encoding p30 and p54 proteins and the virus soluble hemagglutinin (sHA) gene, domestic swine exhibited a strong specific antibody response, which did not protect them from a strong viral attack (Argilaguet et al., 2011)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: DNA vaccines have also shown poor immunogenicity in large animals, including pigs. [4]
+SOURCE: "Argilaguet et al. confirmed the poor immunogenicity of DNA vaccines in large animals (Argilaguet et al., 2011). The immunized pigs with plasmid DNA encoding two ASFV gene frames (pCMV-PQ), failed to elicit an immune response in pigs."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Researchers are exploring live attenuated vaccines (LAVs) as a promising strategy, but these vaccines face challenges such as safety concerns and the risk of virulence. [4]
+SOURCE: "Although the development of attenuated vaccines has been unsuccessful, the Harbin Veterinary Research Institute in China has developed a seven-gene deletion attenuated vaccine strain that has completed laboratory studies, with an initial demonstration of safety and efficacy (Chen et al., 2020). ... LAVs are far from commercialized due to safety concerns. Mass vaccination can increase the risk of virulence in LAVs."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Ongoing efforts include the development of vaccine candidates such as ASFV-G-ΔI177L, which has shown promising results in clinical trials. [11]
+SOURCE: "Scientists at the University of Connecticut and the U.S. Department of Agriculture have developed a new ASF live attenuated vaccine. This candidate was licensed for commercial development by Zoetis in September 2019. ... The ARS previously announced in May 2021 that Drs. Borca and Gladue had developed the ASFV-G-∆I177L vaccine candidate."
+URL: https://www.avma.org/news/multiple-vaccine-candidates-works-african-swine-fever
+FACT: Vietnam plans to produce and commercialize an ASF vaccine, marking a significant step in vaccine development. [11]
+SOURCE: "Vietnam’s deputy minister of agriculture and rural development, Phung Duc Tien, said Vietnam plans to produce and commercialize an ASF vaccine in the third quarter of this year."
+URL: https://www.avma.org/news/multiple-vaccine-candidates-works-african-swine-fever
+FACT: Researchers are also investigating subunit vaccines and novel strategies such as disabled infectious single-cycle (DISC) or replication-deficient mutants. [4]
+SOURCE: "ASF subunit vaccine, which primarily delivers protective antigens and antigen discovery within the ASFV genome, has recently emerged as a promising strategy against ASF (Lopera-Madrid et al., 2021). ... New strategies to develop disabled infectious single-cycle (DISC) or replication-deficient mutants as potential immunizing agents against the ASFV were proposed (Freitas et al., 2019; Urbano and Ferreira, 2022)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+
+
+
+### Subsection 1.3. DNA and virus-vectored ASFV vaccines
+1. **Mechanism of Action**: Describe how DNA and virus-vectored vaccines work, including the process of antigen presentation and immune response induction.
+FACT: DNA vaccines work by delivering DNA into the host cell, where it is transcribed and translated into antigenic proteins that stimulate an immune response. [12]
+SOURCE: "Although DNA vaccines can induce high levels of specific T-cell responses in the host (Argilaguet et al., 2012; Bosch-Camós et al., 2020), immunized animals are still not fully resistant to strong strain attacks."
+URL: https://pubmed.ncbi.nlm.nih.gov/29386289/
+FACT: Virus-vectored vaccines carry DNA into the host cell using a viral vector, which can actively penetrate cells and replicate, inducing a range of immune responses including antibodies, T helper cells (CD4+ T cells), and cytotoxic T lymphocytes (CTL, CD8+ T cells). [13]
+SOURCE: "Viral vector vaccines combine many of the benefits of DNA vaccines and live attenuated vaccines. Like DNA vaccines, viral vector vaccines carry DNA into the host cell to induce antigenic proteins that can be matched to stimulate a range of immune responses, including antibodies, T helper cells (CD4+ T cells), and cytotoxic T lymphocytes (CTL, CD8+ T cells) mediated immunity."
+URL: https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.830244/full
+FACT: The immune response induced by virus-vectored vaccines includes the stimulation of both innate and adaptive immunity, with significant ASFV-specific cytokine responses from T cells. [14]
+SOURCE: "In the immunized pigs, significant ASFV-specific cytokine responses (IFNγTNFα) from T cells CD8 and CD4CD8 were observed following ex vivo stimulation of PBMC with both viruses."
+URL: https://www.mdpi.com/2076-393X/12/4/443
+FACT: The safety of viral vectors is ensured by the removal or replacement of virulence genes from the corresponding viruses with immunogens, or by disrupting the replication of the viral vector. [13]
+SOURCE: "The safety of viral vectors is ensured by the removal or replacement of the virulence genes from the corresponding viruses with immunogens, or by disrupting the replication of the viral vector."
+URL: https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.830244/full
+FACT: DNA vaccines can induce cellular immune responses, particularly strong CD8+ T cell responses, even if they do not produce neutralizing antibodies. [4]
+SOURCE: "A strong CD8 + T cell response was induced by co-immunizing pigs with the ubiquitin gene and the p30 and p54 genes, providing partial protection even in the absence of specific antibodies, suggesting that DNA vaccines enhance cellular immune responses by modifying the antigens."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Virus-vectored vaccines can serve as vaccine markers, differentiating infected from vaccinated animals (DIVA), due to the specific immunogens encoded by the viral vector. [13]
+SOURCE: "Moreover, viral vectors are inherently compatible for differentiating infected from vaccinated animals (DIVA), i.e., the immunogens encoded by the viral vector can serve as vaccine markers."
+URL: https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.830244/full
+
+
+2. **Efficacy and Safety**: Evaluate the efficacy and safety profiles of these vaccine types in animal studies and any clinical trials.
+FACT: Pigs immunized with DNA prime and recombinant vaccinia virus boost, using pools of up to 47 ASFV antigens, showed reduced viral genome levels in blood and lymph tissues compared to control pigs, although they still developed clinical and pathological signs consistent with acute ASFV. [12]
+SOURCE: "Although pigs developed clinical and pathological signs consistent with acute ASFV, viral genome levels were significantly reduced in blood and several lymph tissues in those pigs immunized with vectors expressing ASFV antigens compared with the levels in control pigs."
+URL: https://pubmed.ncbi.nlm.nih.gov/29386289/
+FACT: Immunization with viral vectors carrying ASF antigens, specifically a pool containing B602L, B646L, CP204L, E183L, E199L, EP153R, F317L, and MGF505-5R genes, achieved 100% protection for the immunized pigs following the challenge. [15]
+SOURCE: "Among the vector pools, one containing B602L, B646L, CP204L, E183L, E199L, EP153R, F317L, and MGF505-5R genes achieved 100% protection for the immunized pigs following the challenge."
+URL: https://www.mdpi.com/1999-4915/15/11/2169
+FACT: An adenovirus-vectored cocktail containing seven antigens with ZTS-01 adjuvant formula induced a weak antibody response, resulting in five out of nine pigs surviving, while four out of five controls died after a challenge with the ASF Georgia 2007/1 strain. [15]
+SOURCE: "An adenovirus-vectored cocktail containing seven antigens with ZTS-01 adjuvant formula induced a weak antibody response; five out of nine pigs survived, and four out of five controls died after a challenge with the ASF Georgia 2007/1 strain."
+URL: https://www.mdpi.com/1999-4915/15/11/2169
+FACT: A vesicular stomatitis virus (VSV)-based ASFV vaccine was safe in pigs and mice, inducing high-level specific antibodies against ASFV proteins and a strong cellular immune response. [2]
+SOURCE: "The results indicated that whether administered alone or in combination, the two vaccine prototypes showed acceptable safety in mice and, more importantly, induced high-level specific antibodies against p72, p30, and p54 of ASFV and a strong cellular immune response 28 days after vaccination."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1310333/full
+FACT: Live attenuated ASFV vaccines can induce up to 100% protection against lethal challenge, but there are safety concerns related to the potential for these vaccines to regain pathogenicity and cause post-vaccination reactions. [16]
+SOURCE: "LAVs pose a slight risk; as in rare cases, attenuated strains may regain pathogenicity, causing the spread of the disease; they have the potential to cause post-vaccination reactions and side effects."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1103166/full
+
+
+3. **Comparative Analysis**: Compare the advantages and disadvantages of DNA and virus-vectored vaccines with other types of ASFV vaccines.
+FACT: DNA vaccines for ASFV have shown poor immunogenicity in large animals, such as pigs, despite inducing high levels of specific T-cell responses. [4]
+SOURCE: "Although DNA vaccines can induce high levels of specific T-cell responses in the host (Argilaguet et al., 2012; Bosch-Camós et al., 2020), immunized animals are still not fully resistant to strong strain attacks. Argilaguet et al. confirmed the poor immunogenicity of DNA vaccines in large animals (Argilaguet et al., 2011)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Some DNA vaccine strategies, such as targeting antigens to antigen-specific cells, have enhanced the immune response in pigs, though they still lack full protective capacity against lethal viral attacks. [4]
+SOURCE: "The results hinted that the DNA vaccine did not protect against lethal viral attack, but targeting the antigen to antigen-specific cells significantly enhanced the immune response in pigs."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Virus-vectored vaccines, particularly those using attenuated ASFV strains, have shown promising results in providing protection against ASFV. For example, certain attenuated strains like ASFV-G-ΔA137R and ASFV-G-Δ9GL have demonstrated high survival rates in immunized pigs. [17]
+SOURCE: "A137R|ASFV Georgia 2010|ASFV-G-ΔA137R|10 2 HAD 50 (IM), 100% (5/5)|10 2 HAD 50, ASFV Georgia 2010 (IM), 100% (5/5)|(90)" and "B119L(9Gl)|ASFV Georgia 2007/1|ASFV-G-Δ9GL|10 2 HAD 50 (IM), 100% (10/10)|10 3 HAD 50, ASFV Georgia 2007/1 (IM), 100% (5/5) (challenge at 28 days)|(96)"
+URL: https://journals.asm.org/doi/10.1128/spectrum.03199-23
+FACT: Unlike some DNA vaccine approaches, certain virus-vectored vaccines have not triggered earlier onset of clinical signs, viremia, and death after a virulent ASFV challenge, indicating a safer profile. [4]
+SOURCE: "While the DNA-protein vaccination strategy tested was not effective, it also triggered an earlier onset of clinical signs, viremia, and death after a virulent ASFV challenge compared to non-immunized pigs (Sunwoo et al., 2019)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Attenuated ASFV strains often require multiple passages in cell culture to achieve the desired level of attenuation, which can be a time-consuming and labor-intensive process. [17]
+SOURCE: "ASFV Georgia 2007/1|Vero, 30|ASFV-G/VP30|10 2 HAD 50(IM),60% (3/5)|/ a|(40)" and other similar entries indicating multiple cell culture passages.
+URL: https://journals.asm.org/doi/10.1128/spectrum.03199-23
+
+
+
+### Subsection 1.4. RNA ASFV vaccines
+1. **Introduction to mRNA Technology**: Introduce the concept of mRNA vaccine technology and its application in developing ASFV vaccines.
+FACT: mRNA vaccines use a genetic code to instruct the body's cells to produce proteins that train the immune system, offering a rapid and flexible vaccine development process. [18]
+SOURCE: "In contrast, mRNA vaccines use a genetic code to tell the body's cells to produce proteins that train the immune system. The result: “plug-and-play” vaccines with rapid development times and lower costs."
+URL: https://www.pennmedicine.org/mrna
+FACT: mRNA technology has been successfully applied in developing vaccines for infectious diseases, including COVID-19, and is now being explored for other diseases such as influenza and shingles. [19]
+SOURCE: "Pfizer’s next wave of mRNA scientific innovation is expanding in the infectious disease arena with vaccine development programs in flu (influenza) and shingles, as well as exploring respiratory combination vaccines."
+URL: https://www.pfizer.com/science/innovation/mrna-technology
+FACT: The mRNA platform allows for the creation of vaccines that can activate the immune system to attack specific cells, such as cancer cells, and could potentially be adapted for ASFV. [18]
+SOURCE: "The platform's flexibility allows researchers to create mRNA cancer vaccines that activate the immune system to attack cancer cells."
+URL: https://www.pennmedicine.org/mrna
+FACT: RNA vaccine platforms, similar to those used for COVID-19, are being explored for animal diseases, including the development of an ASF vaccine using RNA technology formulated in lipid nanoparticles. [8]
+SOURCE: "The USDA established a cooperative research and development agreement to conduct proof of concept swine vaccine efficacy studies in 2022 using a novel RNA vaccine. The vaccine is formulated in a lipid nanoparticle, similar to the current mRNA vaccine platforms recently approved by the Food and Drug Administration for COVID-19."
+URL: https://www.dhs.gov/sites/default/files/2024-01/23_1116_st_vaccine_development_factsheet.pdf
+FACT: The use of nucleoside-modified messenger RNA (modRNA) and self-amplifying mRNA (saRNA) are advanced approaches in mRNA technology that could be leveraged for developing ASFV vaccines. [19]
+SOURCE: "Our first approved mRNA vaccine, the Pfizer-BioNTech COVID-19 vaccine, utilizes modRNA... saRNA is a platform that uses a much larger molecule because not only does it encode the antigen of interest, but four additional proteins."
+URL: https://www.pfizer.com/science/innovation/mrna-technology
+
+
+
+2. **Feasibility Studies**: Discuss the feasibility studies conducted to assess the potential of mRNA vaccines against ASFV, including the selection of specific ASFV genes and the challenges encountered[1][4].
+2. **Feasibility Studies**: Discuss the feasibility studies conducted to assess the potential of mRNA vaccines against ASFV, including the selection of specific ASFV genes and the challenges encountered[1][4].
+FACT: Four well-characterized ASFV genes, namely p32, p54, C-type lectin, and CD2v, were selected to explore the feasibility of the mRNA vaccine approach. [20]
+SOURCE: "Four well-characterized ASFV genes, namely p32, p54, C-type lectin, and CD2v were selected to explore the feasibility of the mRNA vaccine approach."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: mRNA transcripts for these selected genes were successfully generated using an in vitro transcription kit. [20]
+SOURCE: "mRNA transcripts for these genes were successfully generated using an in vitro transcription kit."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: High levels of protein expression were observed in HEK-293T cells when p32 and p54 mRNA transcripts were transfected using a commercial transfection reagent. [20]
+SOURCE: "High levels of protein expression were observed in HEK-293T cells when p32 and p54 mRNA transcripts were transfected using a commercial transfection reagent."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Three lipid nanoparticle (LNP) formulations were developed for encapsulating the mRNA transcripts, but none were effective in transfecting the mRNA transcripts into HEK-293T cells. [20]
+SOURCE: "Three lipid nanoparticle formulations were developed for encapsulating the mRNA transcripts. However, none of these LNP formulations were effective in transfecting the mRNA transcripts into HEK-293T cells."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Only one of the LNP formulations induced a modest antibody response when administered to mice. [20]
+SOURCE: "One of the LNP formulations induced a modest antibody response when administered to mice."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Significant challenges in developing an effective mRNA vaccine against ASFV include the limited understanding of viral protective antigens and the lack of an efficient platform for delivering vaccine immunogens in pigs. [20]
+SOURCE: "The major challenges to the development of an effective subunit vaccine against ASFV include the gap in knowledge regarding viral protective antigens and the lack of efficient platforms for the delivery of vaccine immunogens in pigs."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Alternative approaches, such as using LNP-DNA formulations, have shown promise in eliciting robust immune responses in pigs, particularly for the ASFV p54 antigen. [20]
+SOURCE: "By employing the LNP formulation optimized for delivering the influenza virus HA gene, we successfully encapsulated the DNA plasmid encoding the ASFV p54. ... the p54-LNP vaccine p54-LNP induced a substantial antibody response, detectable from day 19 post-vaccination."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Future studies need to focus on identifying potential protective antigens of ASFV and optimizing LNP formulations for the efficient encapsulation of multiple ASFV genes. [20]
+SOURCE: "Our future studies will focus on identifying potential protective antigens of ASFV and optimizing LNP formulations for the efficient encapsulation of multiple ASFV genes."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+
+
+3. **Preliminary Results**: Present preliminary results from studies on mRNA ASFV vaccines, such as protein expression and antibody response in animal models.
+FACT: Four well-characterized ASFV genes, namely p32, p54, C-type lectin, and CD2v, were selected for the development of an mRNA vaccine. [20]
+SOURCE: "Four well-characterized ASFV genes, namely p32, p54, C-type lectin, and CD2v were selected and mRNA transcripts of these selected ASFV genes were successfully generated."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: High levels of protein expression were observed in HEK-293T cells when p32 and p54 mRNA transcripts were transfected using a commercial transfection reagent. [20]
+SOURCE: "When transfected into HEK-293T cells using a commercial transfection reagent, two of these mRNA transcripts (p32 and p54) exhibited high levels of protein expression."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: None of the lipid nanoparticle (LNP) formulations developed were effective in transfecting the mRNA transcripts into HEK-293T cells. [20]
+SOURCE: "None of these LNP formulations were effective in transfecting the mRNA transcripts into HEK-293T cells."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: One of the LNP formulations induced a modest antibody response when administered to mice. [20]
+SOURCE: "One of the LNP formulations induced a modest antibody response when administered to mice."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: The mRNA vaccines expressing selected ASFV antigens induced both antibody and T cell responses, but the magnitudes of the immune responses varied considerably among the different antigens. [21]
+SOURCE: "mRNA expressing the selected ASFV antigens induce both antibody and T cell responses, but the magnitudes of the immune responses vary considerably among the different antigens."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: The selected ASFV antigens, such as CD2v, EP153R, P54, Penton, P72, and P22, stimulated varying levels of cytokine-secreting spots (IFN-γ and TNF-α) in splenocytes. [21]
+SOURCE: "For example, CD2v stimulated highest level of cytokine-secreting spots (IFN-γ: 327, TNF-α: 992), followed by EP153R (IFN-γ: 116, TNF-α: 414), P54 (IFN-γ: 59, TNF-α: 346), Penton (IFN-γ: 54, TNF-α: 593), P72 (IFN-γ: 30, TNF-α: 216), and P22 (IFN-γ: 29, TNF-α: 223)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+
+
+
+### Subsection 1.5. The challenges of developing ASFV vaccines
+1. **Viral Complexity**: Explain the complexity of the ASFV virus and how it poses challenges for vaccine development, including the limited understanding of viral proteins that induce protective immunity.
+FACT: ASFV is a giant DNA virus with a complex genome that contains more than 150 open-reading frames. [3]
+SOURCE: "The main constraint is the great complexity of the ASFV, which is the only member of its family, *Asfarviridae*, and is considered to be a giant DNA virus that contains more than 150 open-reading frames."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: The functionality of most of the proteins encoded by the ASFV genome remains unclear. [22]
+SOURCE: "The genome of ASFV is approximately 170∼194 kb and encodes 150∼170 proteins; however, the functionality of most of the proteins remains unclear..."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.698001/full
+FACT: The specific antigens that induce a protective immune response against ASFV are unknown. [3]
+SOURCE: "The specific antigens that induce a protective immune response are, therefore, unknown."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: ASFV's complexity and genetic diversity make it challenging to develop a vaccine that provides protection against all virulent isolates. [3]
+SOURCE: "One of the paramount challenges in developing a universally effective vaccine against ASFV lies in its vast phylogenetic and immune-virulence diversity. This immense variability implies that the protective efficacy of a vaccine against one isolate does not guarantee its effectiveness against another."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+FACT: Current techniques do not fully understand the structural and functional features of ASFV. [3]
+SOURCE: "Its complexity means that current techniques do not go sufficiently far to attain a full understanding of its structural and functional features (18)."
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+
+
+2. **Delivery and Stability Issues**: Discuss the issues related to the delivery of vaccine immunogens in pigs, such as the instability of mRNA and the need for effective lipid nanoparticle formulations[1][4].
+FACT: The development of ASFV vaccines is complicated by the need for effective delivery systems due to the instability of mRNA. [23]
+SOURCE: "Although mRNA exhibits robust expression profiles, transient protein expression is often observed, raising uncertainty regarding the frequency of its administration."
+URL: https://spj.science.org/doi/10.34133/bmr.0017
+FACT: Lipid nanoparticles (LNPs) are crucial for the stable delivery of mRNA therapeutics, but their formulation needs careful optimization to ensure efficacy. [23]
+SOURCE: "The optimization of the LNP formulation with PEG lipid confirmed the sustained dose-responsive efficacy of mRNA after repeated administrations."
+URL: https://spj.science.org/doi/10.34133/bmr.0017
+FACT: The structure and molar ratio of PEG lipids in LNPs significantly affect the stability and immune response to mRNA vaccines, as they can provoke antibody production against PEG. [23]
+SOURCE: "PEG molecules linked to LNPs, as opposed to free PEG, played a pivotal role in the generation of anti-PEG IgM antibodies."
+URL: https://spj.science.org/doi/10.34133/bmr.0017
+FACT: The size of lipid nanoparticles is a critical parameter for their biodistribution and cellular uptake, which can impact the efficacy of the vaccine. [24]
+SOURCE: "Vaccine performance is affected by biophysical properties, and among these properties, LNP size provides a significant contribution to many functional parameters such as biodistribution and cellular uptake."
+URL: https://www.frontiersin.org/journals/analytical-science/articles/10.3389/frans.2024.1358893/full
+FACT: Despite the potential of LNPs, current ASFV vaccine candidates, including subunit and inactivated vaccines, have failed to induce effective protective immunity, highlighting the complexity of ASFV. [25]
+SOURCE: "Unlike some experimental poxvirus subunit vaccines that induced protection, ASF subunit vaccine candidates implemented with various platforms containing several ASFV structural genes or proteins failed to protect pigs effectively."
+URL: https://pubmed.ncbi.nlm.nih.gov/36146827/
+
+
+3. **Regulatory and Practical Hurdles**: Address regulatory, practical, and economic hurdles that must be overcome to develop and deploy effective ASFV vaccines.
+FACT: Safety studies, including the "reversion to virulence" test, are required to ensure that the vaccine's weakened form of the ASF virus does not revert to its original state. [26]
+SOURCE: "The test is an important milestone as part of a series of safety studies. These new results show that USDA's vaccine candidate does not revert to its normal virulence, after being injected into swine."
+URL: https://www.ars.usda.gov/news-events/news/research-news/2022/african-swine-fever-virus-vaccine-passes-tests-required-for-regulatory-approval/
+FACT: Future commercial use of ASF vaccines depends on approval from the department of animal health within each requesting country. [26]
+SOURCE: "Future commercial use, however, will depend on approval from the department of animal health within each requesting country."
+URL: https://www.ars.usda.gov/news-events/news/research-news/2022/african-swine-fever-virus-vaccine-passes-tests-required-for-regulatory-approval/
+FACT: Live attenuated vaccines (LAVs) face safety concerns, including the risk of increasing virulence through mass vaccination, and lack of cell lines for large-scale production. [4]
+SOURCE: "Overall, LAVs are far from commercialized due to safety concerns. Mass vaccination can increase the risk of virulence in LAVs. Moreover, the lack of cell lines for large-scale production of LAVs is another challenge."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Mutations and sequence loss in the genome of ASFV among different genotypes or strains can lead to changes in antigenicity and virulence, complicating vaccine development. [4]
+SOURCE: "Mutations and sequence loss in the genome of ASFV among different genotypes or even different strains of the same genotype may lead to changes in antigenicity and virulence (Bao et al., 2019)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: The cross-protective ability of live attenuated vaccines needs further evaluation, adding to the complexity of vaccine development. [4]
+SOURCE: "Finally, the cross-protective ability of LAVs needs to be further evaluated."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: The development of effective ASF vaccines is hindered by critical gaps in the knowledge of ASFV biology and the immune response induced by ASFV infection. [27]
+SOURCE: "The major barrier to the goal of developing an effective vaccine is the critical gaps in the knowledge of ASFV biology and the immune response induced by ASFV infection."
+URL: https://pubmed.ncbi.nlm.nih.gov/38311710/
+
+
+
+### Subsection 2.1. The principal pharmacology of mRNA vaccine
+1. **Mechanism of Action**: Describe the mechanism by which mRNA vaccines work, including the translation of mRNA into protein, antigen presentation, and the induction of immune responses.
+FACT: mRNA vaccines introduce a short-lived, synthetically created fragment of the RNA sequence of a virus into the individual being vaccinated. [28]
+SOURCE: "In contrast, mRNA vaccines introduce a short-lived synthetically created fragment of the RNA sequence of a virus into the individual being vaccinated."
+URL: https://en.wikipedia.org/wiki/MRNA_vaccine
+FACT: These mRNA fragments are taken up by dendritic cells through phagocytosis, and the dendritic cells use their internal machinery (ribosomes) to read the mRNA and produce the viral antigens that the mRNA encodes. [28]
+SOURCE: "These mRNA fragments are taken up by dendritic cells through phagocytosis. The dendritic cells use their internal machinery (ribosomes) to read the mRNA and produce the viral antigens that the mRNA encodes."
+URL: https://en.wikipedia.org/wiki/MRNA_vaccine
+FACT: The body degrades the mRNA fragments within a few days of introduction, and the mRNA does not affect the body's genomic DNA. [28]
+SOURCE: "The body degrades the mRNA fragments within a few days of introduction. Although non-immune cells can potentially also absorb vaccine mRNA, produce antigens, and display the antigens on their surfaces, dendritic cells absorb the mRNA globules much more readily. The mRNA fragments are translated in the cytoplasm and do not affect the body's genomic DNA, located separately in the cell nucleus."
+URL: https://en.wikipedia.org/wiki/MRNA_vaccine
+FACT: Once the viral antigens are produced by the host cell, the normal adaptive immune system processes are followed, including the breakdown of antigens by proteasomes and the presentation of antigens by class I and class II MHC molecules to T cells and B cells. [28]
+SOURCE: "Once the viral antigens are produced by the host cell, the normal adaptive immune system processes are followed. Antigens are broken down by proteasomes. Class I and class II MHC molecules then attach to the antigen and transport it to the cellular membrane, 'activating' the dendritic cell. Once activated, dendritic cells migrate to lymph nodes, where they present the antigen to T cells and B cells."
+URL: https://en.wikipedia.org/wiki/MRNA_vaccine
+FACT: The presentation of antigens to T cells and B cells triggers the production of antibodies specifically targeted to the antigen, ultimately resulting in immunity. [29]
+SOURCE: "As part of a normal immune response, the immune system recognizes that the protein is foreign and produces specialized proteins called antibodies. Antibodies help protect the body against infection by recognizing individual viruses or other pathogens, attaching to them, and marking the pathogens for destruction."
+URL: https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/
+FACT: mRNA vaccines stimulate multiple immune pathways, including the activation of Toll-like receptors (TLRs) and inflammasomes, leading to the production of proinflammatory cytokines and type I interferons (IFNs). [30]
+SOURCE: "mRNA vaccines stimulate multiple immune pathways, including TLRs and inflammasome activation, leading to production of proinflammatory cytokines and type I IFNs (7–9)."
+URL: https://insight.jci.org/articles/view/175401
+
+
+2. **Components and Formulation**: Explain the components of mRNA vaccines, including the mRNA itself, lipid nanoparticles, and any adjuvants used.
+FACT: The primary active ingredient in mRNA vaccines is messenger ribonucleic acid (mRNA), which contains the genetic instructions for cells to produce a specific viral protein. [31]
+SOURCE: "mRNA – Also known as messenger ribonucleic acid, mRNA is the only active ingredient in the vaccine. The mRNA molecules contain the genetic material that provide instructions for our body on how to make a viral protein that triggers an immune response within our bodies."
+URL: https://www.hackensackmeridianhealth.org/HealthU/2021/01/11/a-simple-breakdown-of-the-ingredients-in-the-covid-vaccines/
+FACT: mRNA vaccines use lipid nanoparticles to protect the mRNA and facilitate its entry into cells. [31]
+SOURCE: "Lipids – The following lipids are in the new COVID vaccine. Their main role is to protect the mRNA and provide somewhat of a “greasy” exterior that helps the mRNA slide inside the cells."
+URL: https://www.hackensackmeridianhealth.org/HealthU/2021/01/11/a-simple-breakdown-of-the-ingredients-in-the-covid-vaccines/
+FACT: The lipid components in mRNA vaccines include specific lipids such as SM-102, 1,2-dimyristoyl-rac-glycero3-methoxypolyethylene glycol-2000 (PEG2000-DMG), cholesterol, and 1,2-distearoyl-snglycero-3-phosphocholine (DSPC). [31]
+SOURCE: "The Moderna vaccine also requires lipids to help deliver the mRNA to the cells. - SM-102 - 1,2-dimyristoyl-rac-glycero3-methoxypolyethylene glycol-2000 [PEG2000-DMG] - cholesterol - 1,2-distearoyl-snglycero-3-phosphocholine [DSPC]"
+URL: https://www.hackensackmeridianhealth.org/HealthU/2021/01/11/a-simple-breakdown-of-the-ingredients-in-the-covid-vaccines/
+FACT: Adjuvants can be integrated into mRNA vaccines to enhance the immune response. For example, short double-stranded RNA (dsRNA) can be tethered to the mRNA to activate innate immune receptors like RIG-I. [32]
+SOURCE: "Short double-stranded RNA (dsRNA) was designed to target retinoic acid-inducible gene-I (RIG-I), an innate immune receptor, for effective cancer vaccination and then tethered onto the mRNA strand via hybridization."
+URL: https://www.pnas.org/doi/10.1073/pnas.2214320120
+FACT: Other components in mRNA vaccines include salts and sugars to maintain stability and balance the acidity in the body. For example, sodium chloride, potassium chloride, and sucrose are commonly used. [31]
+SOURCE: "Salts – The following salts are included in the Pfizer vaccine and help balance the acidity in your body. - potassium chloride - monobasic potassium phosphate - sodium chloride - dibasic sodium phosphate dihydrate. Sugar – Basic table sugar, also known as sucrose, can also be found in the new COVID vaccine. This ingredient helps the molecules maintain their shape during freezing."
+URL: https://www.hackensackmeridianhealth.org/HealthU/2021/01/11/a-simple-breakdown-of-the-ingredients-in-the-covid-vaccines/
+
+
+3. **Cellular Uptake and Expression**: Detail the process of cellular uptake of mRNA, endosomal release, and the subsequent protein expression.
+FACT: For mRNA vaccines to work, the mRNA must be successfully delivered into target cells in the human body, which often involves electroporation or other delivery methods. [33]
+SOURCE: "For mRNA vaccines to work, it is vital that they are successfully delivered into target cells in the human body. Electroporation is often used to transfer mRNA into *ex vivo* dendritic cells (DCs) before autologous transfusion into patients."
+URL: https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2021.718753/full
+FACT: mRNA needs to pass through the negatively charged phospholipid bilayer of the cell membrane, and since naked mRNA is too large for passive diffusion, it requires a carrier, such as lipid nanoparticles (LNPs), to enter the cell. [33]
+SOURCE: "Only molecules which are smaller than 1,000 Da can enter cells through passive diffusion, while naked mRNA has a relatively large molecular weight and so requires a carrier to enter the cell."
+URL: https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2021.718753/full
+FACT: After cellular uptake via endocytosis, LNPs must efficiently release their mRNA payload from endosomes into the cytoplasm to ensure proper translation into therapeutic proteins. [34]
+SOURCE: "After cellular uptake via endocytosis, LNPs must efficiently release their mRNA payload from endosomes into the cytoplasm to ensure proper translation into therapeutic proteins."
+URL: https://insidetx.com/review/endosomal-escape-a-critical-challenge-in-lnp-mediated-therapeutics/
+FACT: The composition of LNPs, particularly the inclusion of ionizable lipids, plays a major role in regulating endosomal escape. These lipids become positively charged at low pH, destabilizing the particle and facilitating the delivery of the nucleic acid into the cytoplasm. [34]
+SOURCE: "The composition of LNPs, particularly the inclusion of ionizable lipids, plays a major role in regulating endosomal escape. Those ionizable lipids have the unique capability of switching charge with the pH and being positively charged at low pH while remaining neutral at physiological pH."
+URL: https://insidetx.com/review/endosomal-escape-a-critical-challenge-in-lnp-mediated-therapeutics/
+FACT: The endosomal escape of LNPs is believed to occur primarily from recycling endosomes, as indicated by studies using single-molecule localization microscopy (SMLM) and fluorescent labeling. [35]
+SOURCE: "A mathematical model predicted the recycling endosomes, RAB11-positive, compartment as the main site of mRNA escape which was confirmed by a single-molecule localization microscope (SMLM)."
+URL: https://www.pnas.org/doi/10.1073/pnas.2307800120
+FACT: Once the mRNA is released into the cytoplasm, it is translated into the corresponding antigen protein, which induces humoral and cellular immunity by mimicking virus infection. [33]
+SOURCE: "This leads to expression of the corresponding antigen protein, which induces humoral and cellular immunity by mimicking virus infection, and ultimately achieves immune protection."
+URL: https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2021.718753/full
+
+
+
+### Subsection 3.1. mRNA vaccine can induce powerful Th1-bias immune response and memory
+1. **Th1 Immune Response**: Explain how mRNA vaccines can induce a Th1-biased immune response, which is crucial for controlling viral infections.
+FACT: mRNA vaccines can induce a Th1-biased immune response characterized by the activation of Th1 and cytotoxic T cells. [36]
+SOURCE: "activation of Th1 and cytotoxic T cells was concomitant with a rapid IFNγ-dependent triggering of an inflammatory response characterized by TNF-producing macrophages, as well as CXCL10-expressing lymphocytes and cross-presenting dendritic cells."
+URL: https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1010931
+FACT: The Th1-biased recall response induced by mRNA vaccines involves the upregulation of key cytokines such as IFNγ and TNF. [36]
+SOURCE: "A detailed analysis of the corresponding genes suggested the activation of a Th1-biased recall response in these samples, as shown by the upregulation of the two key cytokines... *IFNG* and *TNF* as log2CPM values."
+URL: https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1010931
+FACT: mRNA vaccines can enhance innate immunity through the activation of inflammatory responses and the production of type I interferons (IFNs). [30]
+SOURCE: "mRNA vaccines stimulate multiple immune pathways, including TLRs and inflammasome activation, leading to production of proinflammatory cytokines and type I IFNs."
+URL: https://insight.jci.org/articles/view/175401
+FACT: The induction of a Th1-biased immune response by mRNA vaccines is associated with the production of specific neutralizing antibodies and cytotoxic T cell responses. [37]
+SOURCE: "Influenza A N1 + N2 mRNA Induces the Production of Specific Neutralizing Antibodies" and "Influenza A N1 + N2 mRNA Vaccine Induces Specific T Cell Responses."
+URL: https://www.mdpi.com/2076-393X/12/3/300
+FACT: The Th1-biased immune response induced by mRNA vaccines can lead to a rapid differentiation of blood monocytes to activated macrophages and an increase in nonspecific cytotoxic NK and CD8+ T cells. [36]
+SOURCE: "This positive feedback regulation from adaptive to innate immunity resulted in the enhancement of virus-induced type I interferon response, a rapid differentiation of blood monocytes to activated macrophages, and an increase of nonspecific cytotoxic NK and CD8+ T cells."
+URL: https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1010931
+
+
+2. **Memory Cell Formation**: Discuss the role of mRNA vaccines in generating long-term immune memory, including both cellular and humoral immunity.
+FACT: mRNA vaccines induce robust production of neutralizing antibodies and memory B cells, as well as antigen-specific CD4+ and CD8+ T cells. [30]
+SOURCE: "mRNA vaccines are capable of inducing robust production of neutralizing antibodies and memory B cells as well as antigen-specific CD4+ and CD8+ T cells (1–5)."
+URL: https://insight.jci.org/articles/view/175401
+FACT: Early CD4+ T cell responses induced by mRNA vaccines correlate with long-term humoral immunity. [38]
+SOURCE: "early CD4+ T cell responses correlated with long-term humoral immunity. Recall responses to vaccination in individuals with preexisting immunity primarily increased antibody levels without substantially altering antibody decay rates."
+URL: https://www.science.org/doi/10.1126/science.abm0829
+FACT: Memory cells induced by mRNA vaccines can reside in various tissues, including the lung, spleen, and bone marrow, providing long-term protection. [39]
+SOURCE: "the immune system stockpiles memory T and B cells—essential for long-term immunity—in tissues around the body, including the lung, spleen, and bone marrow."
+URL: https://www.cuimc.columbia.edu/news/immune-memory-covid-19-vaccination-stored-throughout-body
+FACT: mRNA vaccines lead to the formation of tissue-resident memory T cells (TRMs) which have regulatory functions and can provide protection even when memory cells are not detected in the blood. [39]
+SOURCE: "In most people, fully functional and long-lasting TRMs specific to COVID vaccination were found throughout the body. ... T cell memory in tissues is sufficient for protection even when T cell memory is not present in blood."
+URL: https://www.cuimc.columbia.edu/news/immune-memory-covid-19-vaccination-stored-throughout-body
+FACT: The frequency of memory B cells induced by mRNA vaccines correlates significantly with antibody responses after vaccination. [38]
+SOURCE: "The frequency of SARS-CoV-2–specific memory B cells was the only feature of preexisting immunity that correlated significantly with antibody responses after vaccination."
+URL: https://www.science.org/doi/10.1126/science.abm0829
+FACT: mRNA vaccines can maintain immune memory even when it is not detected in the blood, particularly in older individuals. [39]
+SOURCE: "This shows that immune memory to vaccines can be maintained even when it is not detected in blood. ... In contrast, memory cells were not detected in the blood of many individuals, especially older people."
+URL: https://www.cuimc.columbia.edu/news/immune-memory-covid-19-vaccination-stored-throughout-body
+
+
+3. **Examples and Studies**: Provide examples or cite studies that demonstrate the ability of mRNA vaccines to induce robust and durable immune responses.
+FACT: mRNA vaccines can induce a robust Th1-biased immune response, characterized by the activation of polyfunctional CD4+ and CD8+ T cells. [36]
+SOURCE: "This protection was associated with a broad recall immune response involving activation of both lymphocytes and myeloid cells. More specifically, *in vitro* ASFV-specific stimulation of cells from immune pigs revealed a robust Th1 response defined by the presence of polyfunctional CD4+CD8+ T cells as well as the expansion of cytotoxic T cells."
+URL: https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1010931
+FACT: mRNA vaccination can lead to the induction of cytotoxic CD8+ T cell responses with strong cytotoxic potential, as evidenced by the expression of granzyme B. [40]
+SOURCE: "Ki67+CD38+CD8+ T cells expressed granzyme B, suggesting strong cytotoxic potential, and responded with memory kinetics to repeat exposure to SARS-CoV-2 antigens."
+URL: https://www.science.org/doi/10.1126/scitranslmed.abi8961
+FACT: Preexisting immunity from prior infection can enhance the innate immune activation induced by mRNA vaccines, leading to stronger induction of proinflammatory and type I IFN-related gene signatures. [30]
+SOURCE: "Prior infection conferred significantly stronger induction of proinflammatory and type I IFN–related gene signatures, serum cytokines, and monocyte expansion after the prime vaccination."
+URL: https://insight.jci.org/articles/view/175401
+FACT: mRNA vaccines can induce long-lasting humoral responses, with increasing antibody avidity over time, particularly in individuals without prior infection. [40]
+SOURCE: "In SARS-CoV-2–naive adults, avidity continued to increase steadily over the measured time points, including at One month post 2nd dose when antibody titers had plateaued."
+URL: https://www.science.org/doi/10.1126/scitranslmed.abi8961
+FACT: The immune response induced by mRNA vaccines involves the activation of various immune cells, including neutrophils, monocytes, and dendritic cells, leading to localized innate immune activation. [30]
+SOURCE: "This was characterized by infiltration and activation of neutrophils, monocytes, and DCs, as well as detection of type I IFN–related cytokines."
+URL: https://insight.jci.org/articles/view/175401
+
+
+
+### Subsection 3.2. mRNA vaccine enables the development of multivalent ASFV vaccines
+1. **Multivalent Vaccine Concept**: Explain the concept of multivalent vaccines and how mRNA technology facilitates the development of such vaccines.
+FACT: Multivalent vaccines are designed to protect against multiple strains or subtypes of a virus by incorporating multiple antigens into a single vaccine. [41]
+SOURCE: "The study confirms findings from previous reports... on delivery of HA-mixtures... The new study expands the previous observation that HA mixture vaccines can induce broad protection to a larger mixture of 20 HA antigens, delivered as mRNA."
+URL: https://www.science.org/doi/10.1126/science.abm0271
+FACT: mRNA technology allows for the easy production and vaccination with larger antigen mixtures, making it well-suited for the development of universal vaccines against viruses with multiple serotypes. [41]
+SOURCE: "Both formats enable easy production and vaccination with larger antigen mixtures, and are thus well suited for development of universal vaccines against viruses that develop over time or where several serotypes exist."
+URL: https://www.science.org/doi/10.1126/science.abm0271
+FACT: Multivalent mRNA vaccines can stimulate cross-reactive and subtype-specific antibodies, providing broad protection against various strains of a virus. [42]
+SOURCE: "The multivalent mRNA vaccine was highly effective at stimulating cross-reactive and subtype-specific antibodies in both mice and ferrets and protected animals from severe illness following infection with strains both like and unlike those used to make the vaccine."
+URL: https://www.niaidcivics.org/news/2023/02/a-multivalent-mrna-influenza-vaccine-for-broad-immunity-to-seasonal-and-pandemic-influenza-in-animal-models/
+FACT: mRNA technology enables a "many-in-one" approach by incorporating multiple diverse antigens into a single vaccine, which can elicit broad protection against different strains of a virus. [42]
+SOURCE: "By incorporating 20 diverse antigens into a single vaccine, investigators demonstrate a many-in-one approach that elicits broad protection."
+URL: https://www.niaidcivics.org/news/2023/02/a-multivalent-mrna-influenza-vaccine-for-broad-immunity-to-seasonal-and-pandemic-influenza-in-animal-models/
+FACT: The flexibility and rapid development time of mRNA vaccines make them particularly advantageous for addressing viruses with high antigenic diversity, such as influenza and potentially other infectious diseases like African Swine Fever. [18]
+SOURCE: "The result: “plug-and-play” vaccines with rapid development times and lower costs."
+URL: https://www.pennmedicine.org/mrna
+
+
+
+2. **Advantages Over Monovalent Vaccines**: Discuss the advantages of multivalent vaccines, including broader protection against different strains and variants of ASFV.
+2. **Advantages Over Monovalent Vaccines**: Discuss the advantages of multivalent vaccines, including broader protection against different strains and variants of ASFV.
+FACT: Multivalent vaccines offer broader protection against different strains and variants of a virus. [43]
+SOURCE: "This vaccine is composed of components for all four seasonal influenza viruses (A/H1N1pdm09, A/H3N2, B/Victoria, B/Yamagata), two avian influenza viruses with pandemic potential (A/H5N1 and A/H7N9), and four strains of SARS-CoV-2 (Wuhan-Hu-1, BQ.1.1, BA.2.75.2, XBB.1.5)."
+URL: https://www.biorxiv.org/content/10.1101/2024.03.05.583547v1.full.pdf
+FACT: Multivalent vaccines can address the challenge of evolving and antigenically diverse strains of viruses. [43]
+SOURCE: "In response to the constantly evolving and antigenically diverse strains of influenza and SARS-CoV-2, we also evaluated the cross-reactive immunity conferred by FLUCOV-10."
+URL: https://www.biorxiv.org/content/10.1101/2024.03.05.583547v1.full.pdf
+FACT: Multivalent mRNA vaccines can provide robust immunization across multiple components, enhancing overall protection. [43]
+SOURCE: "The goal of a combined mRNA vaccine is to provide robust immunization across as many components as possible."
+URL: https://www.biorxiv.org/content/10.1101/2024.03.05.583547v1.full.pdf
+FACT: mRNA vaccine technology allows for rapid development and adaptation to new disease threats, which is crucial for combating viruses like ASFV. [44]
+SOURCE: "More flexibility and faster response to new disease, Folta describes as reasons why mRNA vaccines are becoming more popular."
+URL: https://www.porkbusiness.com/news/education/livestock-and-mrna-vaccines-what-you-need-know
+FACT: Multivalent vaccines can reduce the complexity and cost associated with administering multiple monovalent vaccines. [45]
+SOURCE: "Proponents of the continued research and development of mRNA vaccine technology cite the added benefit of another tool to combat impending disease threats such as Foot and Mouth Disease (FMD), African Swine Fever (ASF), Porcine Reproductive and Respiratory Syndrome (PRRS), and Highly Pathogenic Avian Influenza (HPAI), along with others."
+URL: https://tnfarmbureau.org/mrna-vaccines-in-livestock
+FACT: The use of mRNA vaccines can provide a safer alternative to traditional live-attenuated vaccines, which is particularly important for diseases like ASFV where live-attenuated vaccines pose risks. [20]
+SOURCE: "Subunit vaccines provide a safer alternative. Moreover, this type of vaccine can be produced in standard production facilities as they do not require the handling of live ASFV strains."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+
+
+3. **Design and Implementation**: Describe how multivalent mRNA vaccines can be designed and implemented to target multiple antigens or strains of ASFV.
+FACT: Multivalent mRNA vaccines can be designed using a reverse vaccinology approach to predict epitopes for cytotoxic T lymphocytes, helper T lymphocytes, and B lymphocytes. [46]
+SOURCE: "A reverse vaccinology approach was used to design a multiepitope pan-proteomic mRNA vaccine against ASFV. Various bioinformatics tools were employed to predict epitopes for cytotoxic T lymphocytes, helper T lymphocytes, and B lymphocytes."
+URL: https://pubmed.ncbi.nlm.nih.gov/39803351/
+FACT: The vaccine construct can include various components such as a 50S ribosomal L7/L12 protein adjuvant, 5' cap, poly(A) tail, signal peptide, and MHC-I-targeting domain to increase immunogenicity, stability, and recognition efficiency. [46]
+SOURCE: "A 50S ribosomal L7/L12 protein adjuvant, 5' cap, poly(A) tail, signal peptide, and MHC-I-targeting domain were incorporated into the design using appropriate linkers to increase immunogenicity, stability, and recognition efficiency."
+URL: https://pubmed.ncbi.nlm.nih.gov/39803351/
+FACT: Bioinformatics tools and molecular dynamics simulations can be used to evaluate the binding affinity and stability of the vaccine construct with Toll-like receptors (TLRs) to ensure effective immune response induction. [46]
+SOURCE: "Docking analyses were done with Toll-like receptors (TLRs) 3, 4, and 7 to evaluate binding affinity. A molecular dynamics simulation was then performed to determine binding stability, while immune simulations evaluated host's immune response."
+URL: https://pubmed.ncbi.nlm.nih.gov/39803351/
+FACT: The designed mRNA vaccine construct can be nonallergenic, antigenic, and stable, and it can successfully induce immune responses and generate antigen-specific memory cells. [46]
+SOURCE: "The designed vaccine construct was found to be nonallergenic, antigenic, and stable when bound to TLR4 while the binding pocket analyses of the vaccine construct to TLR3 and TLR7 indicate high translation efficiency. Immune simulations demonstrated successful induction of immune responses and generation of antigen-specific memory cells."
+URL: https://pubmed.ncbi.nlm.nih.gov/39803351/
+FACT: Multivalent mRNA vaccines can target multiple antigens or strains of ASFV by incorporating multiple epitopes that induce cytotoxic T-cell responses, helper T-cell responses, and antibody production. [46]
+SOURCE: "Based on 100 ASFV proteomes, six epitopes that induce cytotoxic T-cell responses, five epitopes that induce helper T-cell responses, and four epitopes that induce antibody production were predicted."
+URL: https://pubmed.ncbi.nlm.nih.gov/39803351/
+
+
+
+### Subsection 3.3. Flexible utility and alternation of ASFV antigens
+1. **Adaptability to New Strains**: Highlight the adaptability of mRNA vaccines to new strains or variants of ASFV, allowing for quick updates to the vaccine formula.
+FACT: Various vaccine strategies, including those involving genetic modifications and multiple antigen presentations, have shown the potential to adapt to different strains and variants of ASFV. [4]
+SOURCE: "In vivo experiments showed that animals injected with the recombinant virus did not develop disease and survived the challenge with the parental strain... Immunization against naturally attenuated strains can overcome the challenge of non-homologous ASFV strains (King et al., 2011)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: The use of multiple-gene deletions and specific antigen combinations has been explored to enhance protection against various ASFV genotypes. [4]
+SOURCE: "The team knocked out six genes of the Georgia 2007 strain MGF360/505, containing MGF505-1R, MGF360-12L, MGF360-13L, MGF360-14L, MGF505-2R, and MGF505-3R, namely ASFV-G-MGF... *In vivo* experiments showed that animals injected with the recombinant virus did not develop disease and survived the challenge with the parental strain."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Live-attenuated vaccines and recombinant viruses have been developed to stimulate specific immune responses that can protect against different ASFV strains. [47]
+SOURCE: "Cross-protection induced by the OURT88/3 isolate, against challenge with virulent isolates from different genotypes, was correlated with the ability of those isolates to specifically stimulate IFNγ producing lymphocytes from the immunised pigs ."
+URL: https://food.ec.europa.eu/document/download/4dc499a1-0f6b-4bd0-9c32-8a1f7435c030_en?filename=cff_animal_vet-progs_asf_blue-print-road-map.pdf
+FACT: The flexibility in vaccine design, such as using different delivery systems and antigen combinations, suggests a potential pathway for quickly updating vaccine formulas to address new strains. [4]
+SOURCE: "New strategies to develop disabled infectious single-cycle (DISC) or replication-deficient mutants as potential immunizing agents against the ASFV were proposed (Freitas et al., 2019; Urbano and Ferreira, 2022). Confirmation of the pA104R sequence... Goatley et al. found that using rAd prime and MVA boosted as a delivery system with the antigens shown as immunogenic ex-ASFV, which combine eight different antigens (B602L, B646L/p72, CP204L/p30, E183L/p54, E199L, EP153R, F317L, and MGF505-5R), can protect pigs from fatal disease after challenge with a virulent genotype I strain of ASFV (Goatley et al., 2020)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+
+
+2. **Ease of Antigen Switching**: Explain how mRNA vaccines enable the easy switching or addition of new antigens, which is particularly useful in response to evolving viral threats.
+FACT: mRNA vaccines use a genetic code to tell the body's cells to produce specific proteins, allowing for rapid development and modification of the vaccine. [18]
+SOURCE: "In contrast, mRNA vaccines use a genetic code to tell the body's cells to produce proteins that train the immune system. The result: “plug-and-play” vaccines with rapid development times and lower costs."
+URL: https://www.pennmedicine.org/mrna
+FACT: The mRNA platform enables quick adaptation to new infectious diseases and variants by simply changing the genetic sequence of the mRNA. [18]
+SOURCE: "With fast development and production times, mRNA vaccines are ideal for protection against new infectious diseases and variants of existing ones."
+URL: https://www.pennmedicine.org/mrna
+FACT: mRNA technology allows for the easy incorporation of new antigens by modifying the mRNA sequence, which is crucial for responding to evolving viral threats. [19]
+SOURCE: "The focus and drive Pfizer gave to developing our COVID-19 vaccine in partnership with BioNTech gave us a wealth of scientific knowledge in just one year. Pfizer’s next wave of mRNA scientific innovation is expanding in the infectious disease arena with vaccine development programs in flu (influenza) and shingles, as well as exploring respiratory combination vaccines."
+URL: https://www.pfizer.com/science/innovation/mrna-technology
+FACT: The flexibility of mRNA vaccines enables researchers to create vaccines for a wide variety of conditions by adjusting the mRNA sequence to encode different antigens. [18]
+SOURCE: "At Penn, our researchers are using the mRNA platform to create vaccines for a wide variety of conditions.... ### mRNA Vaccines for Infectious Diseases"
+URL: https://www.pennmedicine.org/mrna
+
+
+3. **Examples of Adaptation**: Provide examples of how mRNA vaccines have been adapted to address new variants or strains of other viruses, such as COVID-19[2].
+FACT: Variant-adapted COVID-19 mRNA vaccines can contain parts of the variant mRNA either in addition to, or instead of, that from the original virus. [48]
+SOURCE: "Variant-adapted vaccines can contain parts of the variant mRNA either in addition to, or instead of, that from the original virus."
+URL: https://pubmed.ncbi.nlm.nih.gov/38578120/
+FACT: Moderna's mRNA-1273 vaccine was updated to mRNA-1273.214 to improve efficacy against new variants such as Omicron, showing safety and inferred effectiveness in children. [49]
+SOURCE: "The original mRNA-1273 vaccine showed high efficacy against the delta variant, but its efficacy decreased significantly against the omicron variant. The research underscores the safety and inferred effectiveness of the mRNA-1273.214 vaccine in children aged 6 months to 11 years..."
+URL: https://www.contagionlive.com/view/the-role-of-moderna-s-modified-mrna-1273-214-vaccine-in-children-against-covid-19
+FACT: Bivalent COVID-19 mRNA vaccines, which contain mRNA from both the ancestral and variant strains (e.g., Omicron BA.1 or BA.5), have been developed and approved to elicit broad immune responses against new variants. [50]
+SOURCE: "Updated vaccines containing spikes from the ancestral and Omicron BA.5 variants were licensed by the US Food and Drug Administration (FDA) in the autumn of 2022. Similarly, the European Medicines Agency (EMA) approved the first bivalent vaccines that contained the ancestral and BA.1 spike, followed by licensure of another bivalent vaccine containing the ancestral and BA.5 spikes."
+URL: https://www.science.org/doi/10.1126/science.adh2712
+FACT: The adaptation of mRNA vaccines to new variants, such as the Omicron XBB.1.5 variant, has been implemented, with vaccines like the BioNTech/Pfizer COVID-19 vaccine being adapted for this purpose. [51]
+SOURCE: "The BioNTech/Pfizer COVID-19 vaccine adapted to the XBB.1.5 variant, which has been procured by the Federal Government, is available for COVID-19 vaccination..."
+URL: https://www.pei.de/EN/newsroom/hp-news/2023/230919-omicron-vaccines-adapted.html
+
+
+
+### Subsection 3.4. Short development cycle and Fast manufacture and reducing cost
+1. **Rapid Development**: Discuss how mRNA vaccine technology allows for rapid development, bypassing the need for live virus cultures and enabling swift mass production.
+FACT: mRNA vaccine technology allows for rapid development by bypassing the need for live virus cultures. [52]
+SOURCE: "The primary objective of this project was to assess the feasibility of utilizing the mRNA vaccine technology to develop a subunit vaccine against ASFV."
+URL: https://porkcheckoff.org/research/assessing-the-feasibility-of-the-mrna-vaccine-technology-for-use-against-asf/
+FACT: mRNA vaccines can be developed and mass-produced quickly due to their continuous manufacturing process. [53]
+SOURCE: "The RNAbox™ process will run continuously which could create 7-10x more mRNA at a time and enable more efficient use of raw materials."
+URL: https://cepi.net/new-vaccine-making-process-could-transform-pandemic-response
+FACT: The RNAbox™ technology enables local manufacturing at small production sites worldwide, accelerating vaccine production. [53]
+SOURCE: "The RNAbox™ aims to combat these challenges through its bespoke manufacturing process designed to overcome the need to deliver the vaccine and instead have the mRNA vaccines locally manufactured at small production sites worldwide."
+URL: https://cepi.net/new-vaccine-making-process-could-transform-pandemic-response
+FACT: mRNA vaccine technology can significantly reduce the time required to develop vaccines, aligning with goals like the 100 Days Mission. [53]
+SOURCE: "This fast, optimised vaccine production is critical to the 100 Days Mission, a goal spearheaded by CEPI and embraced by the G7 and G20 to accelerate the development of vaccines and other countermeasures to as little as 100 days from identification of a future virus."
+URL: https://cepi.net/new-vaccine-making-process-could-transform-pandemic-response
+FACT: Research into mRNA vaccines in livestock has been ongoing for over a decade, indicating a long-term focus on rapid and efficient vaccine development. [45]
+SOURCE: "Research into the use of mRNA vaccines in livestock medicine has been ongoing for more than a decade."
+URL: https://tnfarmbureau.org/mrna-vaccines-in-livestock
+
+
+2. **Cost-Effectiveness**: Explain how the speed and efficiency of mRNA vaccine production can reduce costs compared to traditional vaccine development methods.
+FACT: mRNA vaccine production has lower capital costs compared to traditional vaccine production methods, such as those using adeno-associated virus (AAV) vectors. [54]
+SOURCE: "RNA and especially saRNA vaccine production has lower capital cost compared to AVV vaccine production."
+URL: https://www.genengnews.com/insights/rna-vaccine-platforms-have-cost-and-speed-advantages/
+FACT: The operating costs for mRNA vaccine production are higher than for self-amplifying RNA (saRNA) but lower than for AAV vectors, with the major cost drivers being raw material costs. [54]
+SOURCE: "The operating cost is highest for mRNA, followed by AVV, followed by saRNA. The major cost drivers for mRNA and saRNA vaccine production are the raw material costs."
+URL: https://www.genengnews.com/insights/rna-vaccine-platforms-have-cost-and-speed-advantages/
+FACT: mRNA vaccines have the lowest capital and labor costs due to their smaller production footprint and simpler processing workflow. [55]
+SOURCE: "mRNA vaccines had the lowest capital and labor costs, due to having the smallest production footprint and a simpler processing workflow."
+URL: https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/marketing/global/documents/366/324/vaccines-cost-modeling-wp12251en-mk.pdf
+FACT: The production of mRNA vaccines is significantly faster than traditional viral vaccine production, reducing the overall time and cost associated with vaccine development. [56]
+SOURCE: "An mRNA vaccine is synthesized in a matter of minutes... even with modern fermentation equipment, reaching adequate biomass to begin manufacture of a viral vaccine takes about four to six weeks."
+URL: https://www.path.org/our-impact/articles/mrna-and-future-vaccine-manufacturing/
+FACT: Maintaining mRNA and saRNA-based surge capacity during non-pandemic times is more cost-effective due to low fixed costs and higher variable costs. [54]
+SOURCE: "The production of AVV vaccines is associated with high fixed costs and lower variable costs. On the other hand, the production of mRNA and saRNA vaccines is associated with low fixed costs and higher variable costs. This implies that it is more cost-effective to maintain mRNA and especially saRNA-based surge capacity during non-pandemic times."
+URL: https://www.genengnews.com/insights/rna-vaccine-platforms-have-cost-and-speed-advantages/
+
+
+3. **Scalability**: Describe the scalability of mRNA vaccine production, which is crucial for responding to large-scale outbreaks like ASFV.
+FACT: mRNA vaccine production can be rapidly scaled up to respond to large-scale outbreaks due to the simplicity and flexibility of the production process. [57]
+SOURCE: "The ability to rapidly manufacture, scale-up and respond to disease outbreaks with mRNA vaccines is critical for pandemic or any major epidemic ... The production process is simpler with fewer steps so production yields are less variable, production is much faster, and facilities can be smaller."
+URL: https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2022.844039/full
+FACT: mRNA vaccine production can achieve high production rates, such as formulating LNPs at a rate of 17 L/h, equivalent to 34,000 vaccine doses per hour. [58]
+SOURCE: "We formulated LNPs at a production rate of 17 L/h, equivalent to 8.5 g/h mRNA or 34,000 vaccines doses per h (Fig. 1 *D* and *E*)"
+URL: https://www.pnas.org/doi/10.1073/pnas.2303567120
+FACT: The use of microfluidic technologies, such as the SCALAR platform, allows for the parallelization of many microfluidic units, significantly scaling up the total throughput. [58]
+SOURCE: "Since this fabrication strategy can parallelize many (>20,000) identical microfluidic units, the total throughput can be scaled further by simply incorporating more mixing units on a single 100-mm microfluidic chip"
+URL: https://www.pnas.org/doi/10.1073/pnas.2303567120
+FACT: mRNA vaccine production facilities can be smaller and have lower capital costs compared to traditional vaccine manufacturing facilities. [57]
+SOURCE: "Furthermore, the costs to establish a facility, (i.e. capital costs), are potentially much lower than traditional vaccine manufacturing."
+URL: https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2022.844039/full
+FACT: mRNA technology enables rapid changeover to produce vaccines against different pathogens, making multi-production facilities feasible. [57]
+SOURCE: "A major advantage is that, being a platform technology, rapid changeover to produce mRNA encoding antigens from other pathogens in the event of an outbreak, epidemic, or pandemic is possible."
+URL: https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2022.844039/full
+
+
+
+### Subsection 4.1. Antigen selection and design: determining the specificity of ASFV mRNA vaccines
+1. **Identification of Immunogenic Proteins**: Discuss the process of identifying and selecting the most immunogenic proteins of ASFV for inclusion in mRNA vaccines.
+FACT: Researchers have used gamma interferon ELIspot assays to screen for viral proteins recognized by lymphocytes from ASF-immune pigs, identifying 18 antigens that were recognized by ASFV-specific lymphocytes. [59]
+SOURCE: "We used a gamma interferon ELIspot assay to screen for viral proteins recognised by lymphocytes from ASF-immune pigs using peptides corresponding to 133 proteins predicted to be encoded by OUR T88/3. Eighteen antigens that were recognised by ASFV-specific lymphocytes were then incorporated into adenovirus and MVA vectors..."
+URL: https://www.pirbright.ac.uk/publications/identification-and-immunogenicity-african-swine-fever-virus-antigens
+FACT: The selection process includes evaluating the immunogenicity of ASFV antigens corresponding to subunits of protective vaccines, promising immunogens, viral capsid proteins, and novel multiple T cell epitopes (MTE) for broad and robust cellular immunity. [21]
+SOURCE: "We rationally selected and comprehensively evaluated immunogenicity of ASFV antigens, including i) ASFV homologs corresponding to the subunits of the protective VACV vaccine; ii) promising immunogens reported in previous studies; iii) viral capsid proteins in membrane-bound form for more efficient induction of antibody responses; and iv) novel multiple T cell epitopes (MTE) for inducing broad and robust cellular immunity."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: Specific proteins such as CD2v, EP153R, P54, Penton, P72, and P22 have been identified as inducing significant T cell responses, with varying levels of cytokine secretion. [21]
+SOURCE: "T cell responses also varied significantly among different antigens. For example, CD2v stimulated highest level of cytokine-secreting spots (IFN-γ: 327, TNF-α: 992), followed by EP153R (IFN-γ: 116, TNF-α: 414), P54 (IFN-γ: 59, TNF-α: 346), Penton (IFN-γ: 54, TNF-α: 593), P72 (IFN-γ: 30, TNF-α: 216), and P22 (IFN-γ: 29, TNF-α: 223)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: The C129R protein of ASFV has been identified as significantly enhancing both humoral and cellular immunity, with specific peptides (C11, C14, C16, and C18) serving as potential T-cell epitopes. [60]
+SOURCE: "These findings suggest that the C129R protein significantly enhances both humoral and cellular immunity in immunized mice. Moreover, peptides C11, C14, C16, and C18 may serve as potential T-cell epitopes for the C129R protein."
+URL: https://www.mdpi.com/2076-2607/12/6/1056
+
+
+2. **Gene Selection**: Explain how specific genes like p32, p54, C-type lectin, and CD2v have been selected and used in mRNA vaccine studies[1][4].
+FACT: The genes for ASFV antigens such as CD2v, EP153R, P54, and P22 were selected based on their localization on the virion, known functions, and homologies to the subunits of the protective vaccinia virus vaccine. [21]
+SOURCE: "We selected ASFV antigens using the following approaches. First, we selected ASFV homologs corresponding to the subunits of the protective VACV vaccine because ASFV is most closely related to VACV (Figure S1) and both viruses produce two types of infectious virions (EEV and IMV)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: CD2v was selected as a candidate antigen due to its role in the virus's interaction with erythrocytes and its potential to induce immune responses. [21]
+SOURCE: "ASFV EP153R was shown to contain several T cell epitopes and synergized with CD2v in reducing viremia and disease symptoms (29, 30)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: P54 was chosen because it induces neutralizing antibody responses and provides partial protection against viral challenge. [21]
+SOURCE: "ASFV P54 was shown to induce neutralizing antibody response or partial protection against viral challenge (8, 31)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: P22 is highly immunogenic and has potential applications in serological diagnostics and maintaining virion structure, making it a candidate antigen. [21]
+SOURCE: "ASFV P22 is a highly immunogenic protein with application for serological diagnostics and potential role in maintaining virion structure (32, 33)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: C-type lectin genes, while mentioned in other contexts, were not specifically highlighted in the provided sources for mRNA vaccine studies. However, the deletion of C-type lectin genes along with CD2v has been noted to reduce the protective potential of certain ASFV strains. [61]
+SOURCE: "Similarly, the deletion of CD2v and C-type lectin genes, or only the CD2v gene, considerably reduced the protective potential of ASFV-G-∆9GL ".
+URL: https://www.mdpi.com/2076-393X/11/5/1007
+FACT: The selected ASFV antigens, including CD2v, P54, and others, were engineered into lipid nanoparticle-mRNA formulations and evaluated for immunogenicity in both mice and pigs, showing concordant results. [21]
+SOURCE: "The selected antigens in lipid nanoparticle-mRNA formulations were evaluated for immunogenicity in both mice and pigs with concordant results."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+
+
+3. **Optimization of Antigen Design**: Describe methods for optimizing the design of these antigens to enhance their immunogenicity and protective efficacy.
+FACT: ASFV antigens are selected based on their localization on the virion, known functions, and homologies to the subunits of the protective vaccinia virus vaccine. [62]
+SOURCE: "Here, we selected ASFV antigens based on their localization on the virion, known functions, and homologies to the subunits of the protective vaccinia virus vaccine."
+URL: https://pubmed.ncbi.nlm.nih.gov/39416081/
+FACT: Viral capsid proteins are engineered to induce optimal antibody responses, and T cell-directed antigens are designed to induce broad and robust cellular immunity. [62]
+SOURCE: "We also engineered viral capsid proteins for inducing optimal antibody responses and designed T cell-directed antigen for inducing broad and robust cellular immunity."
+URL: https://pubmed.ncbi.nlm.nih.gov/39416081/
+FACT: Computational approaches are used to combine antigens into cocktails for inducing specific immune response profiles. [62]
+SOURCE: "We further developed a computational approach to combine antigens into cocktails for inducing specific immune response profiles and validated candidate cocktail vaccines in mice."
+URL: https://pubmed.ncbi.nlm.nih.gov/39416081/
+FACT: Codon optimization is crucial for enhancing translation efficiency and stabilizing mRNA expression by avoiding undesired sequence features. [63]
+SOURCE: "Codon optimization not only enhances protein yield but also stabilizes mRNA expression by avoiding undesired sequence features, such as Rho-independent transcription terminators, which can destabilize transcripts."
+URL: https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1501010/full
+FACT: Tools like AlphaFold provide detailed structural insights to optimize antigen design, ensuring stability and immunogenicity, and to model viral proteins encoded by mRNA. [63]
+SOURCE: "In mRNA vaccine development, AlphaFold’s detailed structural insights are pivotal for optimizing antigen design, ensuring their stability and immunogenicity. Its ability to model viral proteins encoded by mRNA is crucial for assessing antigenicity, which is essential for effective vaccine formulations."
+URL: https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1501010/full
+FACT: Predicting the secondary structure of mRNA, including elements like α-helices and β-sheets, is essential for understanding its tertiary structure and function, and for optimizing gene sequences for greater mRNA stability. [63]
+SOURCE: "Predicting the secondary structures of mRNA, including elements like α-helices and β-sheets, is essential for understanding its tertiary structure and function. This prediction helps identify regions prone to degradation, allowing researchers to optimize gene sequences for greater mRNA stability."
+URL: https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1501010/full
+
+
+
+### Subsection 4.2. RNA sequence design: increasing the expression of antigen
+1. **Optimization Techniques**: Discuss techniques used to optimize the RNA sequence for higher expression levels, such as codon optimization and the use of specific untranslated regions.
+FACT: Codon optimization is a strategy to improve protein expression by changing the synonymous codons of an mRNA molecule while maintaining the amino acid sequence. [64]
+SOURCE: "Codon optimization is a strategy to improve protein expression by changing the synonymous codon of an mRNA molecule while maintaining the amino acid sequence."
+URL: https://www.biorxiv.org/content/10.1101/2024.09.06.611590v1.full-text
+FACT: Optimizing untranslated regions (UTRs), particularly the 5' UTR, can significantly enhance translation efficiency and stability of mRNA. For example, the SARS-CoV2 5' UTR can be repurposed to promote high-level translation initiation. [65]
+SOURCE: "They discovered that the SARS-CoV2 5' untranslated region (5' UTR) can be repurposed for increased translation and stability of any mRNA."
+URL: https://techfinder.stanford.edu/technology/repurposing-sars-cov2-5-utr-rna-based-therapeutics
+FACT: Enhancing ribosome loading and translation efficiency can be achieved through UTR optimization, codon optimization, and refining global RNA sequence and local RNA structures. [66]
+SOURCE: "enhancing ribosome loading and translation efficiency through untranslated region (UTR) optimization, improving translation efficiency via codon optimization, increasing structural stability by refining global RNA sequence and extending in-cell lifetime and expression fidelity by adjusting local RNA structures."
+URL: https://pubmed.ncbi.nlm.nih.gov/39608721
+FACT: Deep learning-based models, such as RiboCode, can optimize mRNA codon sequences to achieve significantly higher protein expression levels by learning from diverse natural sequences and considering cellular contexts. [64]
+SOURCE: "RiboCode’s deep learning model learns directly from diverse natural sequences with translation measurements, enabling it to capture complex patterns of codon sequences for mRNAs with high translation levels."
+URL: https://www.biorxiv.org/content/10.1101/2024.09.06.611590v1.full-text
+FACT: Integrated optimization methods, like iDRO, can optimize multiple components of mRNA sequences, including 5' UTR, ORF, and 3' UTR, using deep-learning techniques to increase translation efficiency. [67]
+SOURCE: "Based on the mRNA structure, our algorithm consists of two parts: ORF optimization and UTR generation. For ORF optimization, we employed BiLSTM-CRF... Together, we developed a novel pipeline for optimization of full mRNA sequence (including 5′UTR, ORF, 3′UTR) via deep-learning method."
+URL: https://academic.oup.com/bib/article/24/1/bbad001/6987657
+
+
+2. **In Vitro Transcription**: Explain the process of in vitro transcription used to generate mRNA transcripts and how this affects antigen expression.
+FACT: In vitro transcription of mRNA is typically performed using a plasmid DNA (pDNA) template. [68]
+SOURCE: "For mRNA-based vaccine design, in vitro transcription of a plasmid DNA (pDNA) template is typically used to produce functional synthetic mRNA."
+URL: https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/pharmaceutical-and-biopharmaceutical-manufacturing/vaccine-manufacturing/mrna-synthesis-for-the-development-of-vaccines-and-therapeutics
+FACT: The plasmid vector used in in vitro transcription contains specific elements such as an upstream promoter recognized by T7, SP6, or T3 RNA polymerase, 5' UTR, cDNA, 3' UTR, a downstream poly A-tail, and a unique cleavage site. [68]
+SOURCE: "The plasmid vector usually contains the following elements: an upstream promoter exclusively recognized by T7, SP6 or T3 RNA polymerase, all of which are derived from bacteriophages; 5' UTR, cDNA, 3' UTR, a downstream poly A-tail; and a unique cleavage site downstream of the poly A-tail."
+URL: https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/pharmaceutical-and-biopharmaceutical-manufacturing/vaccine-manufacturing/mrna-synthesis-for-the-development-of-vaccines-and-therapeutics
+FACT: Bacteriophage RNA polymerase (T7, T3, or SP6) is used to transcribe the linearized pDNA, and the process involves the use of nucleoside triphosphates and a cap analog. [68]
+SOURCE: "Bacteriophage RNA polymerase is normally used to transcribe linearized plasmid DNA. The pDNA is first linearized with the selected unique restriction site enzyme. After digestion, the linearized pDNA may be purified using methods such as the phenol-chloroform protocol, or the GenElute PCR Clean-Up Kit. Following linearization, in vitro transcription and capping is performed in a mixed solution of recombinant RNA polymerase (T7, T3 or SP6) and nucleoside triphosphates, plus a cap analog such as CleanCap ® Reagent or ARCA (Anti-Reverse Cap Analog)."
+URL: https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/pharmaceutical-and-biopharmaceutical-manufacturing/vaccine-manufacturing/mrna-synthesis-for-the-development-of-vaccines-and-therapeutics
+FACT: Modified nucleosides, such as N1-Methylpseudouridine-5'-Triphosphate, can be used to suppress the innate immune system and enhance mRNA stability. [68]
+SOURCE: "The modified nucleoside such as N1-Methylpseudouridine-5'-Triphosphate (N1-Methylpseudo-UTP, 1-Methylpseudo-UTP) can be used instead of GTP to suppress the innate immune system, and is used in the current mRNA vaccines."
+URL: https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/pharmaceutical-and-biopharmaceutical-manufacturing/vaccine-manufacturing/mrna-synthesis-for-the-development-of-vaccines-and-therapeutics
+FACT: The efficiency of capping mRNA can vary depending on the method used, with CleanCap ® Reagent showing higher capping efficiency without affecting mRNA yield. [68]
+SOURCE: "The efficiency of capping mRNA with ARCA is 70~80% on average because it competes with GTP, while the yield of mRNA is reduced by about one-fourth compared to standard mRNA synthesis. In comparison, the CleanCap ® reagent has been shown to work at 94% capping efficiency without affecting the yield of mRNA production."
+URL: https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/pharmaceutical-and-biopharmaceutical-manufacturing/vaccine-manufacturing/mrna-synthesis-for-the-development-of-vaccines-and-therapeutics
+
+
+3. **Case Studies**: Provide case studies or examples where RNA sequence design has been successfully optimized to increase antigen expression in ASFV mRNA vaccines.
+FACT: mRNA transcripts of ASFV genes (p32, p54, C-type lectin, and CD2v) were successfully generated using an in vitro transcription kit, and high levels of protein expression were observed in HEK-293T cells when p32 and p54 mRNA transcripts were transfected. [20]
+SOURCE: "mRNA transcripts of each of the four ASFV genes (p32, p54, C-type lectin and CD2v) were produced by using an in vitro transcription kit. The resulting mRNAs were then transfected into HEK-293T cells using a commercially available... High levels of protein expression were observed in HEK-293T cells when p32 and p54 mRNA transcripts were transfected using a commercial transfection reagent."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: The efficiency of mRNA transcripts was affected by the 5’ and 3’ untranslated regions (UTRs) flanking both sides of the coding sequence, and optimizing these UTRs improved the expression. [20]
+SOURCE: "We conducted a thorough analysis of existing literature to identify the most effective 5' and 3' UTR sequences. We then chemically synthesized the 5’ and 3’ UTRs and cloned them into a bacterial plasmid to generate an expression vector... The resulting plasmids were subjected to DNA-sequencing to verify the sequence authenticity."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Although lipid nanoparticle (LNP) formulations for mRNA were not effective in this study, optimizing LNP formulations for DNA plasmids showed high transfection efficiency and robust immune responses in pigs, suggesting potential for similar optimization in mRNA vaccines. [20]
+SOURCE: "We were able to optimize several LNP formulations for the effective encapsulation of the HA gene of swine influenza viruses. Notably, these LNP-DNA formulations demonstrated high transfection efficiency in HEK-293T cells. Importantly, when administered to pigs, the LNP-DNA vaccines elicited robust immune responses and provided complete protection against challenge infection with the corresponding influenza virus strain."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+
+
+
+### Subsection 4.3. Delivery systems and adjuvants: strengthening the immune response and memory
+1. **Lipid Nanoparticle Formulations**: Discuss the role of lipid nanoparticles in delivering mRNA vaccines, including the types of lipids used and their impact on cellular uptake and endosomal release[1][4][5].
+FACT: Lipid nanoparticles (LNPs) are crucial for the safe and effective delivery of mRNA vaccines by enclosing the mRNA strands within a protective sphere composed of lipid molecules. [69]
+SOURCE: "LNPs enclose their cargo—in this case, mRNA strands—within a protective sphere composed of lipid (fat) molecules, allowing for its safe transport."
+URL: https://nanovationtx.com/baseimmune-mrna-vaccine-collaboration/
+FACT: LNPs facilitate the cellular uptake and endosomal release of mRNA, which is essential for the mRNA to be translated into the desired antigen. [70]
+SOURCE: "The mRNA/Man-LNP exhibited effective antigen presentation and facilitated dendritic cells (DCs) maturation."
+URL: https://pubmed.ncbi.nlm.nih.gov/38761609/
+FACT: Mannose-modified LNPs can enhance the interaction with dendritic cells, leading to improved antigen presentation and immune response. [70]
+SOURCE: "The mRNA/Man-LNP exhibited effective antigen presentation and facilitated dendritic cells (DCs) maturation."
+URL: https://pubmed.ncbi.nlm.nih.gov/38761609/
+FACT: The design and development of application-tailored LNP formulations are critical for the effective delivery of nucleic acids to various tissues in the body. [69]
+SOURCE: "NanoVation Therapeutics TM specializes in the design and development of application-tailored LNP formulations for the delivery of nucleic acids to various tissues in the body."
+URL: https://nanovationtx.com/baseimmune-mrna-vaccine-collaboration/
+FACT: LNPs are used in existing mRNA COVID vaccines, demonstrating their efficacy in RNA technology for disease prevention and treatment. [69]
+SOURCE: "It is an LNP delivery system that underpins the efficacy of the existing mRNA COVID vaccines, the vaccines that have so vividly demonstrated the potential of RNA technology for the prevention and treatment of diseases."
+URL: https://nanovationtx.com/baseimmune-mrna-vaccine-collaboration/
+
+
+2. **Adjuvant Use**: Explain the use of adjuvants to enhance the immune response and memory induced by mRNA vaccines.
+FACT: Adjuvants can significantly enhance the immune response by boosting multiple elements of the immune system, including antibody production, cytokine production, and immune cell activity. [71]
+SOURCE: "When they gave it to mice as an adjuvant to the BioNTech/Pfizer vaccine, the animals produced large amounts of IL-12p70 in addition to the spike protein. The adjuvant boosted multiple elements of the immune response — not just antibody production, but also cytokine production and immune cell activity — each important for protection from SARS-CoV-2."
+URL: https://answers.childrenshospital.org/mrna-vaccine-adjuvant/
+FACT: Integrating adjuvancy directly into antigen-encoding mRNA strands can effectively stimulate innate immune receptors like retinoic acid-inducible gene-I (RIG-I), leading to the activation of dendritic cells and the secretion of proinflammatory cytokines. [32]
+SOURCE: "Short double-stranded RNA (dsRNA) was designed to target retinoic acid-inducible gene-I (RIG-I), an innate immune receptor, for effective cancer vaccination and then tethered onto the mRNA strand via hybridization. Tuning the dsRNA structure and microenvironment by changing its length and sequence enabled the determination of the structure of dsRNA-tethered mRNA efficiently stimulating RIG-I."
+URL: https://www.pnas.org/doi/10.1073/pnas.2214320120
+FACT: Adjuvants can be tailored to modulate the intensity of immunostimulation, preventing excessive immunostimulation and allowing for the optimization of vaccine formulations. [32]
+SOURCE: "The immunostimulating intensity was tunable by modulating the number of dsRNA along the mRNA strand, which prevents excessive immunostimulation."
+URL: https://www.pnas.org/doi/10.1073/pnas.2214320120
+FACT: In the context of ASF, using adjuvants with viral-vectored vaccines can induce robust humoral and cellular immune responses. For example, adjuvants like MONTANIDE™1313 VG N can elicit ideal humoral, mucosal, and cellular immune responses when used with ASFV recombinant proteins. [4]
+SOURCE: "Some researchers demonstrated that pigs immunized with ASFV recombinant proteins with MONTANIDE™1313 VG N adjuvant elicited ideal humoral, mucosal, and cellular immune responses (Xu et al., 2023)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: Adjuvants can enhance the protective efficacy of subunit vaccines by stimulating specific antibody production and improving antigen presentation. For instance, adjuvants like IL-33 and CTA1-DD can be used in conjunction with ASFV proteins to stimulate specific antibody production. [4]
+SOURCE: "Huang et al. screened for efficient adjuvants and provided a strategy for subunit vaccine development by constructing *Lactobacillus* p72 protein-expressing adjuvants containing IL-33 and CTA1-DD, respectively, to stimulate specific antibody production in immunized mice (Huang et al., 2022)."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+
+
+3. **Optimization of Delivery Systems**: Describe the ongoing efforts to optimize delivery systems, including the development of more effective lipid nanoparticle formulations.
+FACT: Lipid nanoparticles (LNPs) are crucial for the delivery of mRNA vaccines due to the inherent instability and limited cellular penetration of mRNA molecules. [72]
+SOURCE: "Fragile mRNA molecules used in COVID-19 vaccines can't get into cells on their own. They owe their success to lipid nanoparticles that took decades to refine."
+URL: https://cen.acs.org/pharmaceuticals/drug-delivery/Without-lipid-shells-mRNA-vaccines/99/i8
+FACT: LNPs typically consist of four primary lipid constituents: ionizable lipids, phospholipids, cholesterol, and polyethylene glycol (PEG) lipids, each contributing to different aspects of LNP stability and function. [23]
+SOURCE: "LNPs are efficient nonviral gene delivery carriers composed of four primary lipid constituents: ionizable lipids, phospholipids, cholesterol, and polyethylene glycol (PEG) lipids."
+URL: https://spj.science.org/doi/10.34133/bmr.0017
+FACT: The types and molar ratios of lipids used in LNP formulations significantly influence the uptake and endosomal release of the encapsulated nucleic acid cargo. [20]
+SOURCE: "The types and molar ratios of lipids used to formulate LNPs influence the uptake and endosomal releases of the encapsulated nucleic acid cargo (18)."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Despite initial successes, significant challenges remain in optimizing LNP formulations, including toxicity issues with positively charged lipids and the need for reliable manufacturing processes. [72]
+SOURCE: "Positively charged lipids are inherently toxic, and companies struggled for years before landing on formulations that were safe and effective."
+URL: https://cen.acs.org/pharmaceuticals/drug-delivery/Without-lipid-shells-mRNA-vaccines/99/i8
+FACT: Optimization of LNP formulations is crucial for enabling repeated administrations of mRNA vaccines, with factors such as the lipid structure and molar ratio of PEG lipids affecting the performance of repeated doses. [23]
+SOURCE: "The optimization of the LNP formulation with PEG lipid confirmed the sustained dose-responsive efficacy of mRNA after repeated administrations."
+URL: https://spj.science.org/doi/10.34133/bmr.0017
+FACT: In the context of African Swine Fever (ASF), efforts are ongoing to develop effective LNP formulations for delivering mRNA vaccines, although current formulations have shown limited success in inducing strong immune responses in animal models. [20]
+SOURCE: "None of these LNP formulations were effective in transfecting the mRNA transcripts into HEK-293T cells. One of the LNP formulations induced a modest antibody response when administered to mice."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+
+
+
+### Subsection 5.1. Future Prospects and Conclusions
+1. **Future Research Directions**: Outline future research directions for improving mRNA ASFV vaccines, including better antigen selection, optimized delivery systems, and enhanced immunogenicity.
+FACT: Future research should focus on the rational selection of ASFV antigens, including those corresponding to the subunits of protective vaccines like the VACV vaccine, and engineering viral capsid proteins for optimal antibody responses. [21]
+SOURCE: "We selected ASFV antigens using the following approaches. First, we selected ASFV homologs corresponding to the subunits of the protective VACV vaccine because ASFV is most closely related to VACV... Four VACV antigens were used in the subunit vaccine, including A33R and B5R from EEV and L1R and A27L from IMV (Table 1)."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: Optimizing RNA cargo through techniques such as RNA circularization, codon optimization, and minimizing double-stranded RNA can improve mRNA expression and reduce immunogenicity. [73]
+SOURCE: "RNA can also be circularized, for example via incorporation of a self-splicing intron, which can reduce immunogenicity and increase the duration of peak expression... Codon optimization to minimize uridines, whether modified or not, can also improve expression."
+URL: https://www.pnas.org/doi/10.1073/pnas.2307798120
+FACT: Enhancing delivery potency through improved lipid nanoparticle (LNP) formulations and targeting strategies is crucial. The types and molar ratios of lipids used in LNPs influence the uptake and endosomal release of the encapsulated nucleic acid cargo. [20]
+SOURCE: "The lipid nanoparticles are typically formed by four types of lipids: a cationic lipid, a phospholipid, cholesterol, and a polyethylene glycol (PEG)-conjugated lipid. The types and molar ratios of lipids used to formulate LNPs influence the uptake and endosomal releases of the encapsulated nucleic acid cargo."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Developing computational approaches to combine antigens into cocktails for inducing specific immune response profiles is a promising direction. [21]
+SOURCE: "We further developed a computational approach to combine antigens into cocktails for inducing specific immune response profiles and validated candidate cocktail vaccines in mice."
+URL: https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+FACT: Self-amplifying RNA (saRNA) could be explored for its potential in increasing protein expression per RNA molecule delivered, although it presents challenges such as immunogenicity of viral proteins and dsRNA intermediates. [73]
+SOURCE: "Self-amplifying RNA (saRNA), in which the gene of interest is encoded along with the components of an alphavirus that allows for replication of the mRNA... This amplification leads to higher protein expression per RNA molecule delivered than standard mRNA... However, the immunogenicity of saRNA may lend itself well to vaccine applications."
+URL: https://www.pnas.org/doi/10.1073/pnas.2307798120
+
+
+2. **Potential Impact**: Discuss the potential impact of successful mRNA ASFV vaccines on swine health and the agricultural industry.
+FACT: Successful mRNA ASFV vaccines could significantly reduce the economic losses imposed on the pig industry due to ASF outbreaks. [2]
+SOURCE: "An outbreak of ASF imposes devastating economic losses on the pig industry... In recent years, thousands of ASF outbreaks have been reported in Asian countries. The first case of ASF was confirmed in China in 2018, after which the disease broke out and spread across the country, causing huge economic losses due to the absence of effective therapeutic drugs or vaccines."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1310333/full
+FACT: The development of mRNA ASFV vaccines could help in controlling and preventing ASF, thereby protecting global food security. [74]
+SOURCE: "ASFV has been present in sub-Saharan Africa for over 100 years... The virus causes a disease that is frequently fatal and difficult to control in part due to lack of vaccines... This pandemic has since reached Russia, parts of Europe, and China by 2018, as well as nearly all Asian countries, parts of Oceania, and the Caribbean... The virus causes major losses in global pig farming and threatens global food security."
+URL: https://www.pirbright.ac.uk/news/research-african-swine-fever-vaccine
+FACT: mRNA ASFV vaccines could provide a safer alternative to live-attenuated vaccines, reducing the risk of reversion to virulence. [52]
+SOURCE: "Although multiple live-attenuated virus (LAV) vaccines have been generated and demonstrated efficacy in inducing protection against parental virulent ASV strains, there is a significant concern about the use of LAV vaccines, especially the risk of reversion to virulence."
+URL: https://porkcheckoff.org/research/assessing-the-feasibility-of-the-mrna-vaccine-technology-for-use-against-asf/
+FACT: Effective mRNA ASFV vaccines would lead to improved swine health by inducing strong antibody and cellular immune responses, protecting pigs from ASF. [4]
+SOURCE: "Pigs immunized with the modified virus developed strong antibody and cellular immune responses, exhibited mild clinical signs, and showed high levels of protection against subsequent challenge with the wild-type ASFV."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+
+
+3. **Challenges and Opportunities**: Summarize the challenges faced and the opportunities available in the development and deployment of mRNA vaccines against ASFV.
+FACT: One of the significant challenges in using live-attenuated vaccines (LAVs) for ASFV is the risk of reversion to virulence and the potential for severe toxic side effects such as fever, abortion, and chronic or persistent infection. [4]
+SOURCE: "Swine vaccinated with naturally attenuated vaccines manifest severe toxic side effects, such as fever, abortion, and chronic or persistent infection (Netherton ...). Mass vaccination can increase the risk of virulence in LAVs."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: The lack of cell lines for large-scale production of LAVs is another challenge in vaccine development. [4]
+SOURCE: "Moreover, the lack of cell lines for large-scale production of LAVs is another challenge."
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+FACT: mRNA vaccine technology offers the opportunity to develop safer and more effective vaccines by using self-amplifying mRNA-nanoparticle technology, which requires less mRNA and is stable at refrigerator temperatures. [75]
+SOURCE: "Self-amplifying mRNA is derived from the non-structural genes of TC-83 alphavirus and requires only 1-2 ug of sa mRNA when combined with nanoparticle technology to produce immunity in swine. The resultant sa mRNA-nanoparticle vaccine is stable at refrigerator temperatures."
+URL: https://www.ars.usda.gov/research/project/?accnNo=440187
+FACT: The use of mRNA vaccines allows for the targeting of specific viral proteins identified as critical in inducing a protective immune response, such as p32, p54, C-type lectin, and CD2v. [52]
+SOURCE: "Four well-characterized ASFV genes, namely p32, p54, C-type lectin, and CD2v were selected and mRNA transcripts of these selected ASFV genes were successfully generated."
+URL: https://porkcheckoff.org/research/assessing-the-feasibility-of-the-mrna-vaccine-technology-for-use-against-asf/
+FACT: mRNA vaccines can potentially offer a more controlled and predictable immune response compared to live-attenuated vaccines, reducing the risk of adverse effects. [75]
+SOURCE: "The use of live attenuated vaccines (LAV) have their limitations, particularly in free-disease areas. The objective of this proposal is to develop a novel experimental subunit vaccines to ASF, CSF and ASF/CSF based in the use of self-amplifying (sa) mRNA-nanoparticles (NP)."
+URL: https://www.ars.usda.gov/research/project/?accnNo=440187
+
+
+4. **Global Collaboration**: Emphasize the need for global collaboration and support in advancing mRNA vaccine technology for ASFV control.FACT: Global collaboration is crucial for understanding ASFV's interaction with its host and developing safer and more effective vaccines. [74]
+SOURCE: "Dr Linda Dixon, and Dr Ana Reis Group Leader and Research Fellow in ASFV at Pirbright, collaborated with Dr Simon Davis, University of Oxford Immunology Network and Dr Shinji Ikemizu, Faculty of Life Sciences at Kumamoto University in Japan."
+URL: https://www.pirbright.ac.uk/news/research-african-swine-fever-vaccine
+FACT: International cooperation is necessary for conducting comprehensive research and developing vaccine candidates, including both live-attenuated and subunit vaccines. [8]
+SOURCE: "DHS scientists are collaborating toward the development of several vaccine candidates. With the support of industry partners through cooperative research agreements..."
+URL: https://www.dhs.gov/sites/default/files/2024-01/23_1116_st_vaccine_development_factsheet.pdf
+FACT: The development of effective mRNA vaccines against ASFV requires collaborative efforts to overcome challenges such as the identification of protective antigens and efficient delivery platforms. [20]
+SOURCE: "The primary objective of this project was to assess the feasibility of utilizing the mRNA vaccine technology to develop a subunit vaccine against ASFV... Future studies will focus on identifying potential protective antigens of ASFV and optimizing LNP formulations..."
+URL: https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+FACT: Global coordination is essential for addressing the global spread of ASFV, which has affected multiple regions and countries. [74]
+SOURCE: "ASFV has been present in sub-Saharan Africa for over 100 years. In 2007, it spread to Georgia in the Caucasus region, initiating a pandemic that has since reached Russia, parts of Europe, and China by 2018, as well as nearly all Asian countries, parts of Oceania, and the Caribbean."
+URL: https://www.pirbright.ac.uk/news/research-african-swine-fever-vaccine
+
+
+References:
+1. USDA's Vaccine Candidate Successful in Blocking Spread of African Swine Fever Virus. https://www.ars.usda.gov/news-events/news/research-news/2021/usdas-vaccine-candidate-successful-in-blocking-spread-of-african-swine-fever-virus/
+2. A vesicular stomatitis virus-based African swine fever vaccine. https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1310333/full
+3. Is cross-protection evaluation necessary for African swine fever. https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1388812/full
+4. Vaccines for African swine fever: an update. https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2023.1139494/full
+5. Assessment of African swine fever vaccine candidate ASFV-G. https://pubmed.ncbi.nlm.nih.gov/37248243/
+6. Reversion to Virulene Studies for African Swine Fever Vaccines. https://portal.nifa.usda.gov/web/crisprojectpages/0446496-reversion-to-virulene-studies-for-african-swine-fever-vaccines.html
+7. SHIC Reports on African Swine Fever Vaccines Approved in Vietnam. https://www.swinehealth.org/shic-reports-on-african-swine-fever/
+8. DHS Plum Island Animal Disease Center Science Program: Vaccine Development Factsheet. https://www.dhs.gov/sites/default/files/2024-01/23_1116_st_vaccine_development_factsheet.pdf
+9. ASF Vietnam: Approval of commercial use of 1st vaccines. https://www.pigprogress.net/health-nutrition/health/asf-vietnam-approval-of-commercial-use-of-1st-vaccines/
+10. Development of vaccines against African swine fever virus. https://asf-referencelab.info/wp-content/uploads/pdf/PDF_References/2019-Virus_Res._2019_265_150-5_ppa.pdf
+11. Multiple vaccine candidates in the works for African swine fever. https://www.avma.org/news/multiple-vaccine-candidates-works-african-swine-fever
+12. Immunization of Pigs by DNA Prime and Recombinant Vaccinia .... https://pubmed.ncbi.nlm.nih.gov/29386289/
+13. Viral Vector Vaccines Against ASF: Problems and Prospectives. https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2022.830244/full
+14. Characterization of the Protective Cellular Immune Response in .... https://www.mdpi.com/2076-393X/12/4/443
+15. Advanced Strategies for Developing Vaccines and Diagnostic Tools .... https://www.mdpi.com/1999-4915/15/11/2169
+16. A highly efficient indirect ELISA and monoclonal antibody .... https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2022.1103166/full
+17. Attenuated African swine fever viruses and the live vaccine candidates. https://journals.asm.org/doi/10.1128/spectrum.03199-23
+18. mRNA Vaccines: A Bright Future in Vaccinology - Penn Medicine. https://www.pennmedicine.org/mrna
+19. mRNA Technology: What It Is and How It Works - Pfizer. https://www.pfizer.com/science/innovation/mrna-technology
+20. 21-126 Vu Final Report - Pork Checkoff. https://www.porkcheckoff.org/wp-content/uploads/2024/03/21-126-Vu-Final-Report.pdf
+21. Selection, Design and Immunogenicity Studies of ASFV Antigens for mRNA Subunit Vaccines. https://www.biorxiv.org/content/10.1101/2024.10.08.617156v1.full.pdf
+22. Regulation and Evasion of Host Immune Response by African Swine Fever Virus. https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2021.698001/full
+23. Development of Lipid Nanoparticle Formulation for the Repeated Administration of mRNA/LNP. https://spj.science.org/doi/10.34133/bmr.0017
+24. Reliable particle sizing in vaccine formulations using advanced techniques. https://www.frontiersin.org/journals/analytical-science/articles/10.3389/frans.2024.1358893/full
+25. African Swine Fever Vaccinology: The Biological Challenges from Immunological Perspectives. https://pubmed.ncbi.nlm.nih.gov/36146827/
+26. African Swine Fever Virus Vaccine Passes Tests Required for Regulatory Approval. https://www.ars.usda.gov/news-events/news/research-news/2022/african-swine-fever-virus-vaccine-passes-tests-required-for-regulatory-approval/
+27. Recent progress and major gaps in the vaccine development for African swine fever. https://pubmed.ncbi.nlm.nih.gov/38311710/
+28. mRNA vaccine - Wikipedia. https://en.wikipedia.org/wiki/MRNA_vaccine
+29. What are mRNA vaccines and how do they work? - MedlinePlus. https://medlineplus.gov/genetics/understanding/therapy/mrnavaccines/
+30. Modulation of innate immune response to mRNA vaccination after .... https://insight.jci.org/articles/view/175401
+31. A Simple Breakdown of the Ingredients in the COVID Vaccines. https://www.hackensackmeridianhealth.org/HealthU/2021/01/11/a-simple-breakdown-of-the-ingredients-in-the-covid-vaccines/
+32. Comb-structured mRNA vaccine tethered with short double-stranded RNA. https://www.pnas.org/doi/10.1073/pnas.2214320120
+33. Development and Delivery Systems of mRNA Vaccines. https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2021.718753/full
+34. Endosomal Escape: A Critical Challenge in LNP-Mediated Therapeutics. https://insidetx.com/review/endosomal-escape-a-critical-challenge-in-lnp-mediated-therapeutics/
+35. Endosomal escape: A bottleneck for LNP-mediated therapeutics. https://www.pnas.org/doi/10.1073/pnas.2307800120
+36. Cross-protection against African swine fever virus upon intranasal vaccination is associated with an adaptive-innate immune crosstalk. https://journals.plos.org/plospathogens/article?id=10.1371%2Fjournal.ppat.1010931
+37. Influenza a Neuraminidase-Based Bivalent mRNA Vaccine Induces Th1-Type Immune Response and Provides Protective Effects in Mice. https://www.mdpi.com/2076-393X/12/3/300
+38. mRNA vaccines induce durable immune memory to SARS-CoV-2 .... https://www.science.org/doi/10.1126/science.abm0829
+39. Immune Memory to COVID-19 Vaccination Is Stored Throughout the Body. https://www.cuimc.columbia.edu/news/immune-memory-covid-19-vaccination-stored-throughout-body
+40. Robust immune responses are observed after one dose of BNT162b2 mRNA vaccine dose in SARS-CoV-2–experienced individuals. https://www.science.org/doi/10.1126/scitranslmed.abi8961
+41. A multivalent nucleoside-modified mRNA vaccine against all known influenza virus subtypes. https://www.science.org/doi/10.1126/science.abm0271
+42. A Multivalent mRNA Influenza Vaccine for Broad Immunity to Seasonal and Pandemic Influenza in Animal Models. https://www.niaidcivics.org/news/2023/02/a-multivalent-mrna-influenza-vaccine-for-broad-immunity-to-seasonal-and-pandemic-influenza-in-animal-models/
+43. A 10-valent composite mRNA vaccine against both influenza and COVID-19. https://www.biorxiv.org/content/10.1101/2024.03.05.583547v1.full.pdf
+44. Livestock and mRNA Vaccines: What You Need To Know. https://www.porkbusiness.com/news/education/livestock-and-mrna-vaccines-what-you-need-know
+45. mRNA Vaccines in Livestock. https://tnfarmbureau.org/mrna-vaccines-in-livestock
+46. Design of a Multiepitope Pan-Proteomic mRNA Vaccine Construct. https://pubmed.ncbi.nlm.nih.gov/39803351/
+47. Blueprint and Roadmap on the possible development of a vaccine against African Swine Fever. https://food.ec.europa.eu/document/download/4dc499a1-0f6b-4bd0-9c32-8a1f7435c030_en?filename=cff_animal_vet-progs_asf_blue-print-road-map.pdf
+48. Developing variant-adapted COVID-19 vaccines to improve .... https://pubmed.ncbi.nlm.nih.gov/38578120/
+49. The Role of Moderna's Modified mRNA-1273.214 Vaccine in .... https://www.contagionlive.com/view/the-role-of-moderna-s-modified-mrna-1273-214-vaccine-in-children-against-covid-19
+50. Variant-adapted COVID-19 booster vaccines - Science. https://www.science.org/doi/10.1126/science.adh2712
+51. COVID-19 mRNA Vaccine Adapted to the Omicron XBB.1.5 Variant .... https://www.pei.de/EN/newsroom/hp-news/2023/230919-omicron-vaccines-adapted.html
+52. Assessing the feasibility of the mRNA vaccine technology for use against ASFV. https://porkcheckoff.org/research/assessing-the-feasibility-of-the-mrna-vaccine-technology-for-use-against-asf/
+53. New vaccine-making process could transform pandemic response. https://cepi.net/new-vaccine-making-process-could-transform-pandemic-response
+54. RNA Vaccine Platforms Have Cost and Speed Advantages. https://www.genengnews.com/insights/rna-vaccine-platforms-have-cost-and-speed-advantages/
+55. Modeling the Economics of Vaccine Manufacturing. https://www.sigmaaldrich.com/deepweb/assets/sigmaaldrich/marketing/global/documents/366/324/vaccines-cost-modeling-wp12251en-mk.pdf
+56. mRNA and the future of vaccine manufacturing - PATH. https://www.path.org/our-impact/articles/mrna-and-future-vaccine-manufacturing/
+57. Leveraging mRNA Platform Technology to Accelerate Development .... https://www.frontiersin.org/journals/tropical-diseases/articles/10.3389/fitd.2022.844039/full
+58. Throughput-scalable manufacturing of SARS-CoV-2 mRNA .... https://www.pnas.org/doi/10.1073/pnas.2303567120
+59. Identification and immunogenicity of African swine fever virus antigens. https://www.pirbright.ac.uk/publications/identification-and-immunogenicity-african-swine-fever-virus-antigens
+60. Immunogenicity Analysis and Identification of Potential T-Cell Epitopes in C129R Protein of African Swine Fever Virus. https://www.mdpi.com/2076-2607/12/6/1056
+61. Subsequent Immunization of Pigs with African Swine Fever Virus .... https://www.mdpi.com/2076-393X/11/5/1007
+62. Selection, Design and Immunogenicity Studies of ASFV Antigens for .... https://pubmed.ncbi.nlm.nih.gov/39416081/
+63. Computational biology and artificial intelligence in mRNA vaccine .... https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2024.1501010/full
+64. Deep Generative Optimization of mRNA Codon Sequences for Enhanced Protein Expression. https://www.biorxiv.org/content/10.1101/2024.09.06.611590v1.full-text
+65. Repurposing the SARS-CoV2 5'-UTR for RNA Based Therapeutics. https://techfinder.stanford.edu/technology/repurposing-sars-cov2-5-utr-rna-based-therapeutics
+66. mRNA vaccine sequence and structure design and optimization. https://pubmed.ncbi.nlm.nih.gov/39608721
+67. Integrated mRNA sequence optimization using deep learning. https://academic.oup.com/bib/article/24/1/bbad001/6987657
+68. mRNA Synthesis for the Development of Vaccines and Therapeutics. https://www.sigmaaldrich.com/US/en/technical-documents/technical-article/pharmaceutical-and-biopharmaceutical-manufacturing/vaccine-manufacturing/mrna-synthesis-for-the-development-of-vaccines-and-therapeutics
+69. NTx & Baseimmune collaboration. https://nanovationtx.com/baseimmune-mrna-vaccine-collaboration/
+70. Evaluation of a mannose-modified lipid nanoparticle .... https://pubmed.ncbi.nlm.nih.gov/38761609/
+71. A shot in the arm for mRNA vaccines?. https://answers.childrenshospital.org/mrna-vaccine-adjuvant/
+72. Without these lipid shells, there would be no mRNA vaccines for .... https://cen.acs.org/pharmaceuticals/drug-delivery/Without-lipid-shells-mRNA-vaccines/99/i8
+73. Recent advances in nanoparticulate RNA delivery systems - PNAS. https://www.pnas.org/doi/10.1073/pnas.2307798120
+74. Research offers hope for future African swine fever vaccine. https://www.pirbright.ac.uk/news/research-african-swine-fever-vaccine
+75. Development of a Self-amplifying mRNA Vaccine for African Swine Fever and Classical Swine Fever. https://www.ars.usda.gov/research/project/?accnNo=440187

@@ -1,0 +1,29 @@
+You are polishing up your writeup for a section in a research article titled:
+
+{article_title}
+
+The title of the section is:
+
+{topic}
+
+Polish the current writeup to make it more coherent and less repetitive.
+
+In polishing the text, keep the references (e.g. [1], [23], [48], [81], [110]) from the writeup.
+
+YOU MUST NOT WRITE IN POINT FORM.
+
+The following is the current write-up:
+---
+
+{texts}
+
+---
+
+Start your polished text with the tag BEGIN and end with the tag END, as follows:
+---
+BEGIN
+
+[polished text]
+
+END
+

@@ -1,0 +1,24 @@
+Your task is to verify if a fact is supported in a given text. The fact is as follows:
+
+---------------
+
+{fact}
+
+---------------
+
+Verify if the text is supported by the following text.
+
+---------------
+
+{text}
+
+---------------
+
+Give your answer as a number between 1 and 10, where 1 indicates that the text has no relation with the text, while 10 indicate that the text provides complete justification for the fact.
+
+Give your rating in the following format:
+
+---------------
+
+RATING: [rating value]
+REASON: [reasons for giving the rating value]
