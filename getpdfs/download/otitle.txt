@@ -1,0 +1,460 @@
+12 Targeted delivery of RNAi therapeutics with endogenous and exogenous ligand-based mechanisms.
+13 Safety and immunogenicity of a mRNA rabies vaccine in healthy adults: an open-label, non-randomised, prospective, first-in-human phase 1 clinical trial.
+13 Safety and immunogenicity of a mRNA rabies vaccine in healthy adults: an open-label, non-randomised, prospective, first-in-human phase 1 clinical trial.
+14 Proof-of-concept of a low-dose unmodified mRNA-based rabies vaccine formulated with lipid nanoparticles in human volunteers: A phase 1 trial.
+17 A proteomic atlas of the African swine fever virus particle.
+18 Functional Cyclization of Eukaryotic mRNAs.
+19 Recognition of double-stranded RNA and activation of NF-kappaB by Toll-like receptor 3.
+19 Recognition of double-stranded RNA and activation of NF-kappaB by Toll-like receptor 3.
+20 Pi release from eIF2, not GTP hydrolysis, is the step controlled by start-site selection during eukaryotic translation initiation.
+20 Pi release from eIF2, not GTP hydrolysis, is the step controlled by start-site selection during eukaryotic translation initiation.
+21 Interaction Kinetics of Individual mRNA-Containing Lipid Nanoparticles with an Endosomal Membrane Mimic: Dependence on pH, Protein Corona Formation, and Lipoprotein Depletion.
+21 Interaction Kinetics of Individual mRNA-Containing Lipid Nanoparticles with an Endosomal Membrane Mimic: Dependence on pH, Protein Corona Formation, and Lipoprotein Depletion.
+26 COVID-19 vaccination: The road ahead
+27 Survival with AGS-003, an autologous dendritic cell-based immunotherapy, in combination with sunitinib in unfavorable risk patients with advanced renal cell carcinoma (RCC): Phase 2 study results.
+28 Nucleoside modifications in RNA limit activation of 2'-5'-oligoadenylate synthetase and increase resistance to cleavage by RNase L.
+28 Nucleoside modifications in RNA limit activation of 2'-5'-oligoadenylate synthetase and increase resistance to cleavage by RNase L.
+29 Incorporation of pseudouridine into mRNA enhances translation by diminishing PKR activation.
+29 Incorporation of pseudouridine into mRNA enhances translation by diminishing PKR activation.
+34 Dendritic cell vaccination as postremission treatment to prevent or delay relapse in acute myeloid leukemia.
+34 Dendritic cell vaccination as postremission treatment to prevent or delay relapse in acute myeloid leukemia.
+44 Enhancing DNA immunization by targeting ASFV antigens to SLA-II bearing cells.
+46 DNA Vaccination Partially Protects against African Swine Fever Virus Lethal Challenge in the Absence of Antibodies.
+46 DNA Vaccination Partially Protects against African Swine Fever Virus Lethal Challenge in the Absence of Antibodies.
+50 Approaches and perspectives for development of african swine fever virus vaccines.
+50 Approaches and perspectives for development of african swine fever virus vaccines.
+51 Optimization of mRNA untranslated regions for improved expression of therapeutic mRNA.
+51 Optimization of mRNA untranslated regions for improved expression of therapeutic mRNA.
+52 A phase 1 trial of lipid-encapsulated mRNA encoding a monoclonal antibody with neutralizing activity against Chikungunya virus.
+54 A Facile Method for the Removal of dsRNA Contaminant from In Vitro-Transcribed mRNA.
+54 A Facile Method for the Removal of dsRNA Contaminant from In Vitro-Transcribed mRNA.
+61 The clinical progress of mRNA vaccines and immunotherapies.
+61 The clinical progress of mRNA vaccines and immunotherapies.
+67 Once, Twice, Three Times a Finding: Reproducibility of Dendritic Cell Vaccine Trials Targeting Cytomegalovirus in Glioblastoma.
+70 mRNA therapeutics in cancer immunotherapy
+71 Serological SARS-CoV-2 antibody response, potential predictive markers and safety of BNT162b2 mRNA COVID-19 vaccine in haematological and oncological patients.
+71 Serological SARS-CoV-2 antibody response, potential predictive markers and safety of BNT162b2 mRNA COVID-19 vaccine in haematological and oncological patients.
+76 Genome-Wide Analysis of RNA Secondary Structure
+76 Genome-Wide Analysis of RNA Secondary Structure
+77 Ionizable Lipid Nanoparticle-Mediated mRNA Delivery for Human CAR T Cell Engineering.
+77 Ionizable Lipid Nanoparticle-Mediated mRNA Delivery for Human CAR T Cell Engineering.
+78 Structural Components for Amplification of Positive and Negative Strand VEEV Splitzicons.
+78 Structural Components for Amplification of Positive and Negative Strand VEEV Splitzicons.
+79 Modern adjuvants do not enhance the efficacy of an inactivated African swine fever virus vaccine preparation.
+85 Immunotherapy: Building a bridge to a cure for type 1 diabetes.
+85 Immunotherapy: Building a bridge to a cure for type 1 diabetes.
+109 ASFV-G-?I177L as an effective oral nasal vaccine against the eurasia strain of africa swine fever.
+109 ASFV-G-?I177L as an effective oral nasal vaccine against the eurasia strain of africa swine fever.
+117 The Role of Type 1 Conventional Dendritic Cells in Cancer Immunity
+117 The Role of Type 1 Conventional Dendritic Cells in Cancer Immunity.
+118 The search for a PKR code-differential regulation of protein kinase R activity by diverse RNA and protein regulators.
+118 The search for a PKR code-differential regulation of protein kinase R activity by diverse RNA and protein regulators.
+120 Antibody Response to 2-Dose SARS-CoV-2 mRNA Vaccine Series in Solid Organ Transplant Recipients.
+120 Antibody Response to 2-Dose SARS-CoV-2 mRNA Vaccine Series in Solid Organ Transplant Recipients.
+121 Immunogenicity of a Single Dose of SARS-CoV-2 Messenger RNA Vaccine in Solid Organ Transplant Recipients.
+121 Immunogenicity of a Single Dose of SARS-CoV-2 Messenger RNA Vaccine in Solid Organ Transplant Recipients.
+122 Myocarditis With COVID-19 mRNA Vaccines
+131 High doses of inactivated african swine fever virus are safe, but do not confer protection against a virulent challenge.
+131 High doses of inactivated african swine fever virus are safe, but do not confer protection against a virulent challenge.
+132 High Doses of Inactivated African Swine Fever Virus Are Safe, but Do Not Confer Protection against a Virulent Challenge.
+132 High Doses of Inactivated African Swine Fever Virus Are Safe, but Do Not Confer Protection against a Virulent Challenge.
+138 Association of the host immune response with protection using a live attenuated african swine fever virus model.
+138 Association of the host immune response with protection using a live attenuated african swine fever virus model.
+140 3'UTR heterogeneity and cancer progression.
+140 3'UTR heterogeneity and cancer progression
+144 mRNA vaccines for infectious diseases: principles, delivery and clinical translation.
+147 Structure of a transcribing T7 RNA polymerase initiation complex.
+149 Elements of cancer immunity and the cancer-immune set point.
+149 Elements of cancer immunity and the cancer-immune set point.
+162 Selective organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery and CRISPR-Cas gene editing.
+162 Selective organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery and CRISPR-Cas gene editing.
+162 Selective organ targeting (SORT) nanoparticles for tissue-specific mRNA delivery and CRISPR-Cas gene editing.
+175 Type I Interferons Modulate CD8(+) T Cell Immunity to mRNA Vaccines.
+175 Type I Interferons Modulate CD8(+) T Cell Immunity to mRNA Vaccines.
+181 Taking a promising vaccine candidate further: efficacy of ASFV-G-?MGF after intramuscular vaccination of domestic pigs and oral vaccination of wild boar.
+181 Taking a promising vaccine candidate further: efficacy of ASFV-G-?MGF after intramuscular vaccination of domestic pigs and oral vaccination of wild boar.
+182 Evading innate immunity in nonviral mRNA delivery: don't shoot the messenger.
+186 On the mechanism of tissue-specific mRNA delivery by selective organ targeting nanoparticles.
+195 The tangled history of mRNA vaccines.
+196 Trial settles debate over best design for mRNA in COVID vaccines.
+196 Trial settles debate over best design for mRNA in COVID vaccines.
+198 An engineered T7 RNA polymerase that produces mRNA free of immunostimulatory byproducts.
+198 An engineered T7 RNA polymerase that produces mRNA free of immunostimulatory byproducts.
+201 Dendritic cell subsets in T cell programming: location dictates function.
+201 Dendritic cell subsets in T cell programming: location dictates function.
+202 Extracellular vesicles as drug delivery systems: Why and how?
+202 Extracellular vesicles as drug delivery systems: Why and how?
+212 Regulation of mRNA translation and stability by microRNAs.
+212 Regulation of mRNA translation and stability by microRNAs.
+215 Pervasive translation of circular RNAs driven by short IRES-like elements.
+215 Pervasive translation of circular RNAs driven by short IRES-like elements.
+217 Advances in COVID-19 mRNA vaccine development.
+221 Immunotherapy approaches for malignant pleural mesothelioma.
+221 Immunotherapy approaches for malignant pleural mesothelioma.
+222 Human cellular CYBA UTR sequences increase mRNA translation without affecting the half-life of recombinant RNA transcripts.
+222 Human cellular CYBA UTR sequences increase mRNA translation without affecting the half-life of recombinant RNA transcripts.
+223 Decreasing humoral response among healthcare workers up to 4 months after two doses of BNT162b2 vaccine.
+223 Decreasing humoral response among healthcare workers up to 4 months after two doses of BNT162b2 vaccine.
+224 mRNA Delivery System for Targeting Antigen-Presenting Cells In Vivo.
+226 Purification of mRNA Encoding Chimeric Antigen Receptor Is Critical for Generation of a Robust T-Cell Response.
+226 Purification of mRNA Encoding Chimeric Antigen Receptor Is Critical for Generation of a Robust T-Cell Response.
+232 DNA-binding properties of african swine fever virus pA104R, a histone-like protein involved in viral replication and transcription.
+253 Optimizing immunotherapy for colorectal cancer
+256 mRNA-based COVID-19 vaccine boosters induce neutralizing immunity against SARS-CoV-2 Omicron variant.
+256 mRNA-based COVID-19 vaccine boosters induce neutralizing immunity against SARS-CoV-2 Omicron variant.
+258 The highways and byways of mRNA decay
+261 Subunit vaccine approaches for African swine fever virus.
+261 Subunit vaccine approaches for African swine fever virus.
+266 RNA: the new revolution in nucleic acid vaccines.
+267 Optimization of non-coding regions for a non-modified mRNA COVID-19 vaccine.
+267 Optimization of non-coding regions for a non-modified mRNA COVID-19 vaccine.
+268 3' end additions by T7 RNA polymerase are RNA self-templated, distributive and diverse in character-RNA-Seq analyses.
+268 3' end additions by T7 RNA polymerase are RNA self-templated, distributive and diverse in character-RNA-Seq analyses.
+273 Deletion of CD2-Like (CD2v) and C-Type Lectin-Like (EP153R) Genes from African Swine Fever Virus Georgia-?9GL Abrogates Its Effectiveness as an Experimental Vaccine.
+273 Deletion of CD2-Like (CD2v) and C-Type Lectin-Like (EP153R) Genes from African Swine Fever Virus Georgia-?9GL Abrogates Its Effectiveness as an Experimental Vaccine.
+276 Deletion of CD2-Like (CD2v) and C-type lectin-like (EP153R) genes from African swine fever virus Georgia-?9GL abrogates its effectiveness as an experimental vaccine.
+276 Deletion of CD2-Like (CD2v) and C-type lectin-like (EP153R) genes from African swine fever virus Georgia-?9GL abrogates its effectiveness as an experimental vaccine.
+277 The African swine fever virus proteins p54 and p30 are involved in two distinct steps of virus attachment and both contribute to the antibody-mediated protective immune response.
+277 The African swine fever virus proteins p54 and p30 are involved in two distinct steps of virus attachment and both contribute to the antibody-mediated protective immune response.
+281 A pool of eight virally vectored African swine fever antigens protect pigs against fatal disease.
+281 A pool of eight virally vectored African swine fever antigens protect pigs against fatal disease.
+287 Neutralizing antibodies to different proteins of African swine fever virus inhibit both virus attachment and internalization.
+287 Neutralizing antibodies to different proteins of African swine fever virus inhibit both virus attachment and internalization.
+288 Integrated mRNA sequence optimization using deep learning.
+288 Integrated mRNA sequence optimization using deep learning.
+293 Genome-wide functional screen of 3'UTR variants uncovers causal variants for human disease and evolution.
+293 Genome-wide functional screen of 3'UTR variants uncovers causal variants for human disease and evolution.
+294 Differential inhibition of mRNA degradation pathways by novel cap analogs.
+294 Differential inhibition of mRNA degradation pathways by novel cap analogs.
+295 Novel cap analogs for in vitro synthesis of mRNAs with high translational efficiency.
+296 Phosphorothioate cap analogs stabilize mRNA and increase translational efficiency in mammalian cells.
+296 Phosphorothioate cap analogs stabilize mRNA and increase translational efficiency in mammalian cells.
+297 New insights into decapping enzymes and selective mRNA decay.
+298 SARS-CoV-2 new infections among health-care workers after the first dose of the BNT162b2 mRNA COVID-19 vaccine.
+298 SARS-CoV-2 new infections among health-care workers after the first dose of the BNT162b2 mRNA COVID-19 vaccine.
+304 mRNA vaccination with charge-altering releasable transporters elicits human T cell responses and cures established tumors in mice.
+305 The role of lipid components in lipid nanoparticles for vaccines and gene therapy.
+305 The role of lipid components in lipid nanoparticles for vaccines and gene therapy.
+308 Codon optimality, bias and usage in translation and mRNA decay.
+308 Codon optimality, bias and usage in translation and mRNA decay.
+309 Immunogenicity of BNT162b2 mRNA COVID-19 vaccine and SARS-CoV-2 infection in lung transplant recipients.
+309 Immunogenicity of BNT162b2 mRNA COVID-19 vaccine and SARS-CoV-2 infection in lung transplant recipients.
+311 Species-specific recognition of single-stranded RNA via toll-like receptor 7 and 8.
+311 Species-specific recognition of single-stranded RNA via toll-like receptor 7 and 8.
+313 Deletion of the CD2v gene from the genome of ASFV-Kenya-IX-1033 partially reduces virulence and induces protection in pigs.
+314 The African swine fever isolate ASFV-Kenya-IX-1033 is highly virulent and stable after propagation in the wild boar cell line WSL.
+315 Cap 1 Messenger RNA Synthesis with Co-transcriptional CleanCap Analog by In Vitro Transcription.
+315 Cap 1 Messenger RNA Synthesis with Co-transcriptional CleanCap Analog by In Vitro Transcription.
+319 Conservation and Variability of the AUG Initiation Codon Context in Eukaryotes.
+319 Conservation and Variability of the AUG Initiation Codon Context in Eukaryotes.
+322 Antigen presentation by dendritic cells and their instruction of CD4+ T helper cell responses.
+322 Antigen presentation by dendritic cells and their instruction of CD4+ T helper cell responses.
+323 Structural Insights into the Mechanism of Scanning and Start Codon Recognition in Eukaryotic Translation Initiation
+323 Structural Insights into the Mechanism of Scanning and Start Codon Recognition in Eukaryotic Translation Initiation
+324 The scanning mechanism of eukaryotic translation initiation.
+324 The scanning mechanism of eukaryotic translation initiation.
+325 Battling for Ribosomes: Translational Control at the Forefront of the Antiviral Response.
+325 Battling for Ribosomes: Translational Control at the Forefront of the Antiviral Response.
+326 In vivo application of RNA leads to induction of specific cytotoxic T lymphocytes and antibodies.
+327 Modification of antigen-encoding RNA increases stability, translational efficacy, and T-cell stimulatory capacity of dendritic cells.
+329 Tumour exosome integrins determine organotropic metastasis.
+329 Tumour exosome integrins determine organotropic metastasis.
+331 RNA-quality control by the exosome.
+333 Impaired T-cell responses in domestic pigs and wild boar upon infection with a highly virulent African swine fever virus strain.
+338 Advances in mRNA non-viral delivery approaches.
+346 Immunization of pigs by DNA prime and recombi- nant vaccinia virus boost to identify and rank African swine fever virus immunogenic and protective proteins.
+346 Immunization of pigs by DNA prime and recombi- nant vaccinia virus boost to identify and rank African swine fever virus immunogenic and protective proteins.
+347 A randomized controlled phase II clinical trial on mRNA electroporated autologous monocyte-derived dendritic cells (TriMixDC-MEL) as adjuvant treatment for stage III/IV melanoma patients who are disease-free following the resection of macrometastases.
+347 A randomized controlled phase II clinical trial on mRNA electroporated autologous monocyte-derived dendritic cells (TriMixDC-MEL) as adjuvant treatment for stage III/IV melanoma patients who are disease-free following the resection of macrometastases.
+350 eIF2beta is critical for eIF5-mediated GDP-dissociation inhibitor activity and translational control.
+350 eIF2beta is critical for eIF5-mediated GDP-dissociation inhibitor activity and translational control.
+352 Structure of T7 RNA polymerase complexed to the transcriptional inhibitor T7 lysozyme.
+352 Structure of T7 RNA polymerase complexed to the transcriptional inhibitor T7 lysozyme.
+353 Oral delivery of nucleic acid therapeutics: Challenges, strategies, and opportunities.
+354 Quantitating Endosomal Escape of a Library of Polymers for mRNA Delivery.
+355 Anti-PEG Antibodies Boosted in Humans by SARS-CoV-2 Lipid Nanoparticle mRNA Vaccine.
+357 A novel, disruptive vaccination technology: self-adjuvanted RNActive((R)) vaccines.
+357 A novel, disruptive vaccination technology: self-adjuvanted RNActive((R)) vaccines.
+360 Suppression of RNA recognition by Toll-like receptors: the impact of nucleoside modification and the evolutionary origin of RNA.
+361 Increased erythropoiesis in mice injected with submicrogram quantities of pseudouridine-containing mRNA encoding erythropoietin.
+361 Increased erythropoiesis in mice injected with submicrogram quantities of pseudouridine-containing mRNA encoding erythropoietin.
+362 Generating the optimal mRNA for therapy: HPLC purification eliminates immune activation and improves translation of nucleoside-modified, protein-encoding mRNA.
+362 Generating the optimal mRNA for therapy: HPLC purification eliminates immune activation and improves translation of nucleoside-modified, protein-encoding mRNA.
+363 Incorporation of pseudouridine into mRNA yields superior nonimmunogenic vector with increased translational capacity and biological stability.
+364 Nonsense-Mediated mRNA Decay Begins Where Translation Ends.
+364 Nonsense-Mediated mRNA Decay Begins Where Translation Ends.
+365 Length-dependent recognition of double-stranded ribonucleic acids by retinoic acid-inducible gene-I and melanoma differentiation-associated gene 5.
+366 Efficacy and immunogenicity of unmodified and pseudouridine-modified mRNA delivered systemically with lipid nanoparticles in vivo.
+366 Efficacy and immunogenicity of unmodified and pseudouridine-modified mRNA delivered systemically with lipid nanoparticles in vivo.
+368 Surface-Functionalized PEGylated Nanoparticles Deliver Messenger RNA to Pulmonary Immune Cells.
+368 Surface-Functionalized PEGylated Nanoparticles Deliver Messenger RNA to Pulmonary Immune Cells.
+370 Immune responses and long-term disease recurrence status after telomerase-based dendritic cell immunotherapy in patients with acute myeloid leukemia.
+371 The contribution of pseudouridine to stabilities and structure of RNAs.
+371 The contribution of pseudouridine to stabilities and structure of RNAs.
+372 Fine-Tuning of Hydrophobicity in Amphiphilic Polyaspartamide Derivatives for Rapid and Transient Expression of Messenger RNA Directed Toward Genome Engineering in Brain.
+372 Fine-Tuning of Hydrophobicity in Amphiphilic Polyaspartamide Derivatives for Rapid and Transient Expression of Messenger RNA Directed Toward Genome Engineering in Brain.
+378 Poly(ethylene glycol) in drug delivery: pros and cons as well as potential alternatives.
+383 Growth kinetics and protective efficacy of attenuated ASFV strain congo with deletion of the EP402 gene.
+383 Growth kinetics and protective efficacy of attenuated ASFV strain congo with deletion of the EP402 gene.
+384 A single-dose F1-based mRNA-LNP vaccine provides protection against the lethal plague bacterium.
+384 A single-dose F1-based mRNA-LNP vaccine provides protection against the lethal plague bacterium.
+384 A single-dose F1-based mRNA-LNP vaccine provides protection against the lethal plague bacterium.
+385 The foundations of immune checkpoint blockade and the ipilimumab approval decennial.
+385 The foundations of immune checkpoint blockade and the ipilimumab approval decennial.
+386 Distinct African swine fever virus shedding in wild boar infected with virulent and attenuated isolates.
+386 Distinct African swine fever virus shedding in wild boar infected with virulent and attenuated isolates.
+387 Ionizable Amino-Polyesters Synthesized via Ring Opening Polymerization of Tertiary Amino-Alcohols for Tissue Selective mRNA Delivery.
+388 Point mutations define a sequence flanking the AUG initiator codon that modulates translation by eukaryotic ribosomes.
+388 Point mutations define a sequence flanking the AUG initiator codon that modulates translation by eukaryotic ribosomes.
+390 Increased antigen presentation efficiency by coupling antigens to MHC class I trafficking signals.
+391 Efficacy and safety of the CVnCoV SARS-CoV-2 mRNA vaccine candidate in ten countries in Europe and Latin America (HERALD): a randomised, observer-blinded, placebo-controlled, phase 2b/3 trial.
+395 Self-adjuvanted mRNA vaccination in advanced prostate cancer patients: a first-in-man phase I/IIa study.
+396 Beyond immune checkpoint blockade: emerging immunological strategies.
+396 Beyond immune checkpoint blockade: emerging immunological strategies.
+397 Phosphorothioate cap analogs increase stability and translational efficiency of RNA vaccines in immature dendritic cells and induce superior immune responses in vivo.
+399 CAR immune cells: design principles, resistance and the next generation.
+399 CAR immune cells: design principles, resistance and the next generation.
+401 Live attenuated African swine fever viruses as ideal tools to dissect the mechanisms involved in viral pathogenesis and immune protection.
+401 Live attenuated African swine fever viruses as ideal tools to dissect the mechanisms involved in viral pathogenesis and immune protection.
+406 A Single Immunization with Nucleoside-Modified mRNA Vaccines Elicits Strong Cellular and Humoral Immune Responses against SARS-CoV-2 in Mice.
+406 A Single Immunization with Nucleoside-Modified mRNA Vaccines Elicits Strong Cellular and Humoral Immune Responses against SARS-CoV-2 in Mice.
+407 ADAR1: "Editor-in-Chief" of Cytoplasmic Innate Immunity.
+407 ADAR1: "Editor-in-Chief" of Cytoplasmic Innate Immunity.
+409 Phase I clinical trial of an intranodally administered mRNA-based therapeutic vaccine against HIV-1 infection.
+409 Phase I clinical trial of an intranodally administered mRNA-based therapeutic vaccine against HIV-1 infection.
+410 SARS-CoV-2 mRNA Vaccines Foster Potent Antigen-Specific Germinal Center Responses Associated with Neutralizing Antibody Generation.
+431 Infection of African swine fever in wild boar, China, 2018.
+433 Engineering intranasal mRNA vaccines to enhance lymph node trafficking and immune responses.
+434 Rapid Surface Display of mRNA Antigens by Bacteria-Derived Outer Membrane Vesicles for a Personalized Tumor Vaccine.
+436 Structural insight into african swine fever virus dUTPase reveals a novel folding pattern in the dUTPase family.
+437 Tailoring mRNA Vaccine to Balance Innate/Adaptive Immune Response.
+437 Tailoring mRNA Vaccine to Balance Innate/Adaptive Immune Response.
+441 Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
+441 Distinct and Orchestrated Functions of RNA Sensors in Innate Immunity
+442 The scavenger mRNA decapping enzyme DcpS is a member of the HIT family of pyrophosphatases.
+443 Structural basis of toll-like receptor 3 signaling with double-stranded RNA.
+443 Structural basis of toll-like receptor 3 signaling with double-stranded RNA.
+448 Membrane-destabilizing ionizable phospholipids for organ-selective mRNA delivery and CRISPR-Cas gene editing.
+448 Membrane-destabilizing ionizable phospholipids for organ-selective mRNA delivery and CRISPR-Cas gene editing.
+461 Distinct RIG-I and MDA5 signaling by RNA viruses in innate immunity.
+469 Live attenuated african swine fever viruses as ideal tools to dissect the mechanisms involved in cross-protection.
+469 Live attenuated african swine fever viruses as ideal tools to dissect the mechanisms involved in cross-protection.
+470 Clinical advances and ongoing trials on mRNA vaccines for cancer treatment.
+470 Clinical advances and ongoing trials on mRNA vaccines for cancer treatment.
+471 Protein expression from exogenous mRNA: uptake by receptor-mediated endocytosis and trafficking via the lysosomal pathway.
+471 Protein expression from exogenous mRNA: uptake by receptor-mediated endocytosis and trafficking via the lysosomal pathway.
+480 Extracellular vesicles in immunomodulation and tumor progression.
+480 Extracellular vesicles in immunomodulation and tumor progression.
+482 Processivity in early stages of transcription by T7 RNA polymerase.
+482 Processivity in early stages of transcription by T7 RNA polymerase.
+487 mRNA structure regulates protein expression through changes in functional half-life.
+487 mRNA structure regulates protein expression through changes in functional half-life.
+489 T cells expressing chimeric antigen receptors can cause anaphylaxis in humans.
+490 Regulation by 3'-Untranslated Regions
+494 Enhanced mRNA delivery into lymphocytes enabled by lipid-varied libraries of charge-altering releasable transporters.
+496 Synergistic lipid compositions for albumin receptor mediated delivery of mRNA to the liver.
+496 Synergistic lipid compositions for albumin receptor mediated delivery of mRNA to the liver.
+497 mRNA vaccine for cancer immunotherapy.
+497 mRNA vaccine for cancer immunotherapy
+499 Strategies for controlling the innate immune activity of conventional and self-amplifying mRNA therapeutics: Getting the message across.
+499 Strategies for controlling the innate immune activity of conventional and self-amplifying mRNA therapeutics: Getting the message across.
+501 mRNA transfection of dendritic cells: synergistic effect of ARCA mRNA capping with Poly(A) chains in cis and in trans for a high protein expression level.
+501 mRNA transfection of dendritic cells: synergistic effect of ARCA mRNA capping with Poly(A) chains in cis and in trans for a high protein expression level.
+502 A two-stage poly(ethylenimine)-mediated cytotoxicity: implications for gene transfer/therapy.
+502 A two-stage poly(ethylenimine)-mediated cytotoxicity: implications for gene transfer/therapy.
+503 Biomolecular coronas provide the biological identity of nanosized materials.
+503 Biomolecular coronas provide the biological identity of nanosized materials.
+511 Real-time quantification of single RNA translation dynamics in living cells.
+511 Real-time quantification of single RNA translation dynamics in living cells.
+522 Evaluation of an African swine fever (ASF) vaccine strategy incorporating priming with an alphavirus-expressed antigen followed by boosting with attenuated ASF virus.
+522 Evaluation of an African swine fever (ASF) vaccine strategy incorporating priming with an alphavirus-expressed antigen followed by boosting with attenuated ASF virus.
+527 Neutralizing antibodies to African swine fever virus proteins p30, p54, and p72 are not sufficient for antibody-mediated protection.
+532 Why nanoparticles prefer liver macrophage cell uptake in vivo.
+532 Why nanoparticles prefer liver macrophage cell uptake in vivo.
+534 Tales of Detailed Poly(A) Tails.
+538 Biological characterization of African swine fever virus genotype II strains from north-eastern Estonia in European wild boar.
+538 Biological characterization of African swine fever virus genotype II strains from north-eastern Estonia in European wild boar.
+550 Simultaneous deletion of the 9GL and UK genes from the african swine fever virus georgia 2007 isolate offers increased safety and protection against homologous challenge.
+567 mRNA vaccines - a new era in vaccinology
+568 Virus-Mimicking Cell Membrane-Coated Nanoparticles for Cytosolic Delivery of mRNA.
+568 Virus-Mimicking Cell Membrane-Coated Nanoparticles for Cytosolic Delivery of mRNA.
+569 Caveolae: Structure, Function, and Relationship to Disease.
+569 Caveolae: Structure, Function, and Relationship to Disease.
+570 Roles of mRNA poly(A) tails in regulation of eukaryotic gene expression.
+570 Roles of mRNA poly(A) tails in regulation of eukaryotic gene expression.
+571 Inhaled Nanoformulated mRNA Polyplexes for Protein Production in Lung Epithelium.
+571 Inhaled Nanoformulated mRNA Polyplexes for Protein Production in Lung Epithelium.
+572 Risk of Myocarditis After Sequential Doses of COVID-19 Vaccine and SARS-CoV-2 Infection by Age and Sex.
+579 The joining of ribosomal subunits in eukaryotes requires eIF5B.
+579 The joining of ribosomal subunits in eukaryotes requires eIF5B.
+584 Epitope Mapping of African Swine Fever Virus p72 Capsid Protein Using Polyclonal Swine Sera and Monoclonal Antibodies
+585 Activation of MDA5 requires higher-order RNA structures generated during virus infection.
+585 Activation of MDA5 requires higher-order RNA structures generated during virus infection.
+590 Lower response to BNT162b2 vaccine in patients with myelofibrosis compared to polycythemia vera and essential thrombocythemia.
+592 eIF5 and eIF5B together stimulate 48S initiation complex formation during ribosomal scanning.
+592 eIF5 and eIF5B together stimulate 48S initiation complex formation during ribosomal scanning.
+595 Type I IFN counteracts the induction of antigen-specific immune responses by lipid-based delivery of mRNA vaccines.
+595 Type I IFN counteracts the induction of antigen-specific immune responses by lipid-based delivery of mRNA vaccines.
+603 A Single Immunization with Spike-Functionalized Ferritin Vaccines Elicits Neutralizing Antibody Responses against SARS-CoV-2 in Mice.
+603 A Single Immunization with Spike-Functionalized Ferritin Vaccines Elicits Neutralizing Antibody Responses against SARS-CoV-2 in Mice.
+605 mRNA-based therapeutics: powerful and versatile tools to combat diseases.
+606 Lung-selective mRNA delivery of synthetic lipid nanoparticles for the treatment of pulmonary lymphangioleiomyomatosis.
+611 Identification of a continuously stable and commercially available cell line for the identification of infectious African swine fever virus in clinical samples.
+611 Identification of a continuously stable and commercially available cell line for the identification of infectious African swine fever virus in clinical samples.
+613 mRNA capping: biological functions and applications.
+613 mRNA capping: biological functions and applications.
+622 ASFV gene A151R is involved in the process of virulence in domestic swine.
+622 ASFV gene A151R is involved in the process of virulence in domestic swine.
+623 Deletion of African swine fever virus histone-like protein, A104R from the georgia isolate drastically reduces virus virulence in domestic pigs.
+623 Deletion of African swine fever virus histone-like protein, A104R from the georgia isolate drastically reduces virus virulence in domestic pigs.
+624 Differential effect of the deletion of african swine fever virus virulence-associated genes in the induction of attenuation of the highly virulent georgia strain.
+624 Differential effect of the deletion of african swine fever virus virulence-associated genes in the induction of attenuation of the highly virulent georgia strain.
+625 Evaluation in swine of a recombinant african swine fever virus lacking the MGF-360-1L gene.
+626 Evaluation of an ASFV RNA helicase gene A859L for virus replication and swine virulence.
+626 Evaluation of an ASFV RNA helicase gene A859L for virus replication and swine virulence.
+627 The C962R ORF of African swine fever strain georgia is non-essential and not required for virulence in swine.
+627 The C962R ORF of African swine fever strain georgia is non-essential and not required for virulence in swine.
+628 The MGF360-16R ORF of African swine fever virus strain georgia encodes for a nonessential gene that interacts with host proteins SERTAD3 and SDCBP.
+628 The MGF360-16R ORF of African swine fever virus strain georgia encodes for a nonessential gene that interacts with host proteins SERTAD3 and SDCBP.
+643 Deletion of the African swine fever virus gene DP148R does not reduce virus replication in culture but reduces virus virulence in pigs and induces high levels of protection against challenge.
+643 Deletion of the African swine fever virus gene DP148R does not reduce virus replication in culture but reduces virus virulence in pigs and induces high levels of protection against challenge.
+645 Key principles and methods for studying the endocytosis of biological and nanoparticle therapeutics.
+645 Key principles and methods for studying the endocytosis of biological and nanoparticle therapeutics.
+645 Key principles and methods for studying the endocytosis of biological and nanoparticle therapeutics.
+647 Are caveolae a cellular entry route for non-viral therapeutic delivery systems?
+649 Long-term survival correlates with immunological responses in renal cell carcinoma patients treated with mRNA-based immunotherapy.
+657 Unlocking the promise of mRNA therapeutics.
+663 High-throughput and high-content bioassay enables tuning of polyester nanoparticles for cellular uptake, endosomal escape, and systemic in vivo delivery of mRNA.
+663 High-throughput and high-content bioassay enables tuning of polyester nanoparticles for cellular uptake, endosomal escape, and systemic in vivo delivery of mRNA.
+668 mRNA vaccines: The future of prevention of viral infections?
+668 mRNA vaccines: The future of prevention of viral infections?
+678 Extracellular vesicles: biology and emerging therapeutic opportunities.
+678 Extracellular vesicles: biology and emerging therapeutic opportunities.
+680 Activation of innate immune antiviral responses by Nod2.
+680 Activation of innate immune antiviral responses by Nod2.
+683 mRNA-based therapeutics--developing a new class of drugs.
+683 mRNA-based therapeutics--developing a new class of drugs.
+684 An RNA vaccine drives immunity in checkpoint-inhibitor-treated melanoma.
+684 An RNA vaccine drives immunity in checkpoint-inhibitor-treated melanoma.
+685 Personalized vaccines for cancer immunotherapy.
+685 Personalized vaccines for cancer immunotherapy
+687 Human 5' UTR design and variant effect prediction from a massively parallel translation assay.
+687 Human 5' UTR design and variant effect prediction from a massively parallel translation assay.
+690 Diseases of Swine
+690 Diseases of Swine
+695 Advances in immunotherapy for hepatocellular carcinoma.
+699 Porcine Invariant Natural Killer T Cells: Functional Profiling and Dynamics in Steady State and Viral Infections.
+699 Porcine Invariant Natural Killer T Cells: Functional Profiling and Dynamics in Steady State and Viral Infections.
+700 T-cell responses in domestic pigs and wild boar upon infection with the moderately virulent African swine fever virus strain Estonia2014.
+702 mRNA: A Novel Avenue to Antibody Therapy?
+703 Discriminating self from non-self in nucleic acid sensing.
+704 Translation of Angiotensin-Converting Enzyme 2 upon Liver- and Lung-Targeted Delivery of Optimized Chemically Modified mRNA.
+704 Translation of Angiotensin-Converting Enzyme 2 upon Liver- and Lung-Targeted Delivery of Optimized Chemically Modified mRNA.
+706 A phase I/IIa study of the mRNA-based cancer immunotherapy CV9201 in patients with stage IIIB/IV non-small cell lung cancer.
+707 Apolipoprotein E Binding Drives Structural and Compositional Rearrangement of mRNA-Containing Lipid Nanoparticles.
+708 Mammalian retrovirus-like protein PEG10 packages its own mRNA and can be pseudotyped for mRNA delivery.
+708 Mammalian retrovirus-like protein PEG10 packages its own mRNA and can be pseudotyped for mRNA delivery.
+709 Comparative Effectiveness of Moderna, Pfizer-BioNTech, and Janssen (Johnson & Johnson) Vaccines in Preventing COVID-19 Hospitalizations Among Adults Without Immunocompromising Conditions - United States, March-August 2021.
+710 Cancer vaccines: Building a bridge over troubled waters.
+710 Cancer vaccines: Building a bridge over troubled waters.
+711 Uptake of synthetic naked RNA by skin-resident dendritic cells via macropinocytosis allows antigen expression and induction of T-cell responses in mice.
+711 Uptake of synthetic naked RNA by skin-resident dendritic cells via macropinocytosis allows antigen expression and induction of T-cell responses in mice.
+715 Database for mRNA half-life of 19 977 genes obtained by DNA microarray analysis of pluripotent and differentiating mouse embryonic stem cells.
+716 RNA structural dynamics regulate early embryogenesis through controlling transcriptome fate and function.
+717 To PEGylate or not to PEGylate: Immunological properties of nanomedicine's most popular component, polyethylene glycol and its alternatives.
+717 To PEGylate or not to PEGylate: Immunological properties of nanomedicine's most popular component, polyethylene glycol and its alternatives.
+718 Translation initiation by cap-dependent ribosome recruitment: Recent insights and open questions.
+718 Translation initiation by cap-dependent ribosome recruitment: Recent insights and open questions.
+723 Probing the dynamic RNA structurome and its functions.
+723 Probing the dynamic RNA structurome and its functions.
+724 Synthesis and properties of mRNAs containing the novel "anti-reverse" cap analogs 7-methyl(3'-O-methyl)GpppG and 7-methyl (3'-deoxy)GpppG.
+728 Cap analogs modified with 1,2-dithiodiphosphate moiety protect mRNA from decapping and enhance its translational potential.
+731 Genotype I African swine fever viruses emerged in domestic pigs in
+731 Genotype I African swine fever viruses emerged in domestic pigs in
+734 The self-assembled nanoparticle-based trimeric RBD mRNA vaccine elicits robust and durable protective immunity against SARS-CoV-2 in mice.
+734 The self-assembled nanoparticle-based trimeric RBD mRNA vaccine elicits robust and durable protective immunity against SARS-CoV-2 in mice.
+740 Generation and Evaluation of an African Swine Fever Virus Mutant with Deletion of the CD2v and UK Genes
+740 Generation and Evaluation of an African Swine Fever Virus Mutant with Deletion of the CD2v and UK Genes.
+743 Generation and evaluation of an african swine fever virus mutant with deletion of the CD2v and UK genes.
+743 Generation and evaluation of an african swine fever virus mutant with deletion of the CD2v and UK genes.
+746 Interim Estimates of Vaccine Effectiveness of BNT162b2 and mRNA-1273 COVID-19 Vaccines in Preventing SARS-CoV-2 Infection Among Health Care Personnel, First Responders, and Other Essential and Frontline Workers - Eight U.S. Locations, December 2020-March 2021.
+748 Engineered mRNA-expressed antibodies prevent respiratory syncytial virus infection.
+748 Engineered mRNA-expressed antibodies prevent respiratory syncytial virus infection.
+756 Evaluation of the safety profile of the ASFV vaccine candidate ASFV-G-?I177L.
+756 Evaluation of the safety profile of the ASFV vaccine candidate ASFV-G-?I177L.
+757 Maximizing the Translational Yield of mRNA Therapeutics by Minimizing 5'-UTRs.
+757 Maximizing the Translational Yield of mRNA Therapeutics by Minimizing 5'-UTRs.
+758 Segmented poly(A) tails significantly reduce recombination of plasmid DNA without affecting mRNA translation efficiency or half-life.
+758 Segmented poly(A) tails significantly reduce recombination of plasmid DNA without affecting mRNA translation efficiency or half-life.
+761 Recent advances in polymeric materials for the delivery of RNA therapeutics.
+764 Efficient RNA drug delivery using red blood cell extracellular vesicles.
+768 Modulating intracellular pathways to improve non-viral delivery of RNA therapeutics.
+769 Nebulized mRNA-Encoded Antibodies Protect Hamsters from SARS-CoV-2 Infection.
+769 Nebulized mRNA-Encoded Antibodies Protect Hamsters from SARS-CoV-2 Infection.
+770 Development Real-Time PCR Assays to Genetically Differentiate Vaccinated Pigs From Infected Pigs With the Eurasian Strain of African Swine Fever Virus.
+770 Development Real-Time PCR Assays to Genetically Differentiate Vaccinated Pigs From Infected Pigs With the Eurasian Strain of African Swine Fever Virus.
+776 Deletion of the ASFV dUTPase Gene E165R from the genome of highly virulent african swine fever virus georgia 2010 does not affect virus replication or virulence in domestic pigs.
+776 Deletion of the ASFV dUTPase Gene E165R from the genome of highly virulent african swine fever virus georgia 2010 does not affect virus replication or virulence in domestic pigs.
+779 Understanding and controlling the interaction of nanomaterials with proteins in a physiological environment.
+780 Lipid Nanoparticle-mRNA Formulations for Therapeutic Applications.
+780 Lipid Nanoparticle-mRNA Formulations for Therapeutic Applications.
+782 Rapid 40S scanning and its regulation by mRNA structure during eukaryotic translation initiation.
+788 Bacteriophage T7 transcription system: an enabling tool in synthetic biology.
+789 RNA structure probing uncovers RNA structure-dependent biological functions.
+790 Mitochondria-localised ZNFX1 functions as a dsRNA sensor to initiate antiviral responses through MAVS.
+790 Mitochondria-localised ZNFX1 functions as a dsRNA sensor to initiate antiviral responses through MAVS.
+794 Development of an ELISA method to differentiate animals infected with wild-type african swine fever viruses and attenuated HLJ/18-7GD vaccine candidate.
+794 Development of an ELISA method to differentiate animals infected with wild-type african swine fever viruses and attenuated HLJ/18-7GD vaccine candidate.
+795 Applications of Phosphate Modification and Labeling to Study (m)RNA Caps.
+795 Applications of Phosphate Modification and Labeling to Study (m)RNA Caps.
+797 Accurate detection of tumor-specific gene fusions reveals strongly immunogenic personal neo-antigens.
+797 Accurate detection of tumor-specific gene fusions reveals strongly immunogenic personal neo-antigens.
+798 Systematic discovery of cap-independent translation sequences in human and viral genomes.
+798 Systematic discovery of cap-independent translation sequences in human and viral genomes.
+802 The challenge and prospect of mRNA therapeutics landscape.
+802 The challenge and prospect of mRNA therapeutics landscape.
+803 A phase IB study on intravenous synthetic mRNA electroporated dendritic cell immunotherapy in pretreated advanced melanoma patients.
+803 A phase IB study on intravenous synthetic mRNA electroporated dendritic cell immunotherapy in pretreated advanced melanoma patients.
+805 Vaccination and immunotherapies in neuroimmunological diseases.
+805 Vaccination and immunotherapies in neuroimmunological diseases.
+806 Lipid nanoparticle technology for therapeutic gene regulation in the liver.
+806 Lipid nanoparticle technology for therapeutic gene regulation in the liver.
+809 Translation dynamics of single mRNAs in live cells and neurons.
+809 Translation dynamics of single mRNAs in live cells and neurons.
+817 Ribosomal Chamber Music: Toward an Understanding of IRES Mechanisms
+817 Ribosomal Chamber Music: Toward an Understanding of IRES Mechanisms
+818 Dynamics of Translation of Single mRNA Molecules In Vivo
+818 Dynamics of Translation of Single mRNA Molecules In Vivo
+820 IRES-mediated cap-independent translation, a path leading to hidden proteome.
+820 IRES-mediated cap-independent translation, a path leading to hidden proteome.
+823 The mRNA Vaccine Technology Era and the Future Control of Parasitic Infections.
+823 The mRNA Vaccine Technology Era and the Future Control of Parasitic Infections.
+824 Intradermally delivered mRNA-encapsulating extracellular vesicles for collagen-replacement therapy.
+825 Codon Usage Influences the Local Rate of Translation Elongation to Regulate Co-translational Protein Folding.
+825 Codon Usage Influences the Local Rate of Translation Elongation to Regulate Co-translational Protein Folding.
+826 Advances of mRNA vaccine in tumor: a maze of opportunities and challenges.
+826 Advances of mRNA vaccine in tumor: a maze of opportunities and challenges.
+832 The immune microenvironment in gastric adenocarcinoma.
+832 The immune microenvironment in gastric adenocarcinoma.
+833 Leveraging mRNA Sequences and Nanoparticles to Deliver SARS-CoV-2 Antigens In Vivo.
+833 Leveraging mRNA Sequences and Nanoparticles to Deliver SARS-CoV-2 Antigens In Vivo.
+834 Formulation and Delivery Technologies for mRNA Vaccines
+834 Formulation and Delivery Technologies for mRNA Vaccines.
+838 Function and Evolution of Upstream ORFs in Eukaryotes.
+838 Function and Evolution of Upstream ORFs in Eukaryotes.
+845 An Analysis of the Binding Function and Structural Organization of the Protein Corona.
+849 Deletion of the L7L-L11L genes attenuates ASFV and induces protection against homologous challenge.
+849 Deletion of the L7L-L11L genes attenuates ASFV and induces protection against homologous challenge.
+858 Exosomes Derived From Natural Killer Cells Exert Therapeutic Effect in Melanoma.
+858 Exosomes Derived From Natural Killer Cells Exert Therapeutic Effect in Melanoma.
+859 Enhancement of antitumor potency of extracellular vesicles derived from natural killer cells by IL-15 priming.
+859 Enhancement of antitumor potency of extracellular vesicles derived from natural killer cells by IL-15 priming.
+861 Classification and characterization of multigene family proteins of African swine fever viruses.
+861 Classification and characterization of multigene family proteins of African swine fever viruses.
+862 The Safety and Immunogenicity of the mRNA-BNT162b2 SARS-CoV-2 Vaccine in Hemodialysis Patients.
+862 The Safety and Immunogenicity of the mRNA-BNT162b2 SARS-CoV-2 Vaccine in Hemodialysis Patients.
+872 Human Dcp2: a catalytically active mRNA decapping enzyme located in specific cytoplasmic structures.
+872 Human Dcp2: a catalytically active mRNA decapping enzyme located in specific cytoplasmic structures.
+873 Shedding light on the cell biology of extracellular vesicles.
+877 CD8(+) T cell states in human cancer: insights from single-cell analysis.
+877 CD8(+) T cell states in human cancer: insights from single-cell analysis.

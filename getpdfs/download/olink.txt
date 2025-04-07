@@ -1,0 +1,9 @@
+45 https://www.sciencedirect.com/science/article/pii/S0166354213000417
+56 https://link.springer.com/article/10.3103S1068367415020056
+351 https://www.sciencedirect.com/science/article/pii/S0022175900002222
+416 https://www.sciencedirect.com/science/article/pii/S0166093498001050
+540 http://jvi.asm.org/content/91/1/e01760-16.abstract
+596 https://www.microbiologyresearch.org/content/journal/jgv/10.1099vir.0.070508-0
+765 https://cordis.europa.eu/project/id/862874/reporting
+773 https://www.farmprogress.com/animal-health/researchers-turn-proven-process-asf-vaccine-development
+807 https://www.oie.int/en/disease/african-swine-fever/#ui-id-2
