@@ -24,6 +24,7 @@ docker build -t wtf-frontend-dev -f frontend/Dockerfile .
 docker run -d -p 5173:5173 vue-frontend-dev
 ```
 
+<img width="131" height="775" alt="image" src="https://github.com/user-attachments/assets/43213c00-b5fc-4329-8577-8dbc4e74dcb4" />
 
 
 # frontend
